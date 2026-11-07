@@ -1,0 +1,69 @@
+{
+ "date": "2026-11-07",
+ "dateLabel": "Sat 7 Nov 2026",
+ "items": [
+  {
+   "section": "World",
+   "headline": "Qatar urges US and Iran to agree a deal to end the war",
+   "summary": "Qatar's prime minister said both sides shouldn't wait for a 'perfect moment' to settle. Separately, President Trump confirmed new US strikes on Iran's Qeshm island.",
+   "source": "Al Jazeera, 7 Nov",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal"
+  },
+  {
+   "section": "World",
+   "headline": "Paraguay's president removed and arrested",
+   "summary": "Santiago Peña was impeached over links to the collapse of the digital lender Ueno, then detained. Pedro Alliana has been sworn in as president.",
+   "source": "Al Jazeera, 7 Nov",
+   "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in"
+  },
+  {
+   "section": "World",
+   "headline": "Stephen Miller named White House chief of staff",
+   "summary": "Miller replaces Susie Wiles in the top White House job, days after the US midterm elections.",
+   "source": "Al Jazeera, 6 Nov",
+   "url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff"
+  },
+  {
+   "section": "Business",
+   "headline": "Bank of England raises interest rates to 4%",
+   "summary": "The first rise in more than three years, up from 3.75%, after renewed inflation pressure linked partly to high energy costs. Mortgage and savings rates may follow.",
+   "source": "Investing.com, 5 Nov",
+   "url": "https://uk.investing.com/news/stock-market-news/ftse-100-touches-3month-high-as-bank-rally-preceding-boe-rate-decision-4959622"
+  },
+  {
+   "section": "Business",
+   "headline": "Big tech sell-off hits markets, including the FTSE 100",
+   "summary": "The Nasdaq 100 fell 6.4% on Thursday and chip stocks about 12%, on fears that the midterm results will slow data-centre building. Chips partly bounced back on Friday, but the FTSE 100 still closed about 1% lower.",
+   "source": "AI Weekly (citing CNBC) and Yahoo Finance, 6 Nov",
+   "url": "https://aiweekly.co/alerts/nasdaq-100-loses-record-23t-as-chip-index-plunges-12-in-post-midterm-ai-rout"
+  },
+  {
+   "section": "Business",
+   "headline": "US jobs growth comes in far stronger than expected",
+   "summary": "The US added 165,000 jobs in October, well above forecasts. That pushed up bond yields and the chance of a US rate rise.",
+   "source": "Charles Schwab, 6 Nov",
+   "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+  },
+  {
+   "section": "AI & agents",
+   "headline": "Microsoft launches a 'container' to fence in AI agents",
+   "summary": "Microsoft Execution Containers are now generally available. They use the operating system to limit what an AI agent on a computer can access, as companies give agents more access to data and tools.",
+   "source": "Microsoft Security blog, 5 Nov",
+   "url": "https://microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026"
+  },
+  {
+   "section": "AI & agents",
+   "headline": "Mistral opens its managed AI agents to the public",
+   "summary": "Mistral has a public preview of agents you can build with a visual workflow builder. Private-cloud and on-premises versions are due in late November.",
+   "source": "AI Weekly (citing Mistral), 6 Nov",
+   "url": "https://aiweekly.co/alerts/mistral-opens-studio-managed-agents-in-public-preview-adds-workflow-builder-and"
+  },
+  {
+   "section": "AI & agents",
+   "headline": "Mira Murati's Thinking Machines Lab reportedly raising $5bn",
+   "summary": "The AI start-up is reported to be raising $5bn led by Accel, at a $40bn valuation before the new money, roughly triple its value a year ago.",
+   "source": "AI Weekly (citing Business Insider), 6 Nov",
+   "url": "https://aiweekly.co/alerts/thinking-machines-lab-raising-5b-led-by-accel-at-40b-pre-money-tripling-last"
+  }
+ ]
+}
