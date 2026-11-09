@@ -2,14 +2,68 @@
  "date": "2026-11-09",
  "dateLabel": "Mon 9 Nov 2026",
  "items": [
-  {"section": "World", "headline": "US disables ship trying to break Iran blockade", "summary": "US forces fired on and disabled a cargo ship in the Gulf of Oman on Saturday after it left an Iranian port. The new Task Force Iron Gate is also pressing Iraq to close its border crossings with Iran.", "source": "Al Jazeera and Foreign Exchanges, 8 Nov", "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes"},
-  {"section": "World", "headline": "Floods leave tens of thousands in Gaza without shelter", "summary": "Heavy rain flooded tents in Gaza City and elsewhere, leaving tens of thousands of displaced Palestinians without proper shelter. Aid groups say mobile homes are still being blocked from entering.", "source": "Al Jazeera, 8 Nov", "url": "https://www.aljazeera.com/middle-east/"},
-  {"section": "World", "headline": "South Africa's ANC suffers setback in local elections", "summary": "Results from the 4 November local elections show the governing ANC losing ground, a further test for President Cyril Ramaphosa's party.", "source": "Al Jazeera, 8 Nov", "url": "https://www.aljazeera.com/news/"},
-  {"section": "Business", "headline": "UK expected to cut its 2030 electric car target", "summary": "The government is expected to lower the share of new car sales that must be fully electric by 2030 from 80% to around 60%, after pressure from carmakers. The 2035 end date for new petrol and diesel cars is not affected.", "source": "Rallies/EWU and Electrive (citing the FT), 9 Nov", "url": "https://rallies.ai/news/uk-stocksfactors-to-watch-on-november-9-b616838616bab7f8"},
-  {"section": "Business", "headline": "UK jobs market cooled in October, but starting pay rose", "summary": "A recruiters' survey found fewer people being hired in October, while starting salaries for permanent jobs rose faster. It comes days after the Bank of England raised interest rates to 4%.", "source": "Rallies/EWU, 9 Nov", "url": "https://rallies.ai/news/uk-stocksfactors-to-watch-on-november-9-b616838616bab7f8"},
-  {"section": "Business", "headline": "GSK and Moderna settle vaccine patent fight", "summary": "GSK and Moderna have settled lawsuits claiming Moderna's COVID-19 and RSV vaccines used GSK patents. Terms weren't given in the report.", "source": "Rallies/EWU, 9 Nov", "url": "https://rallies.ai/news/uk-stocksfactors-to-watch-on-november-9-b616838616bab7f8"},
-  {"section": "AI & agents", "headline": "OpenAI reportedly raises another $11bn", "summary": "The extra funding reportedly values OpenAI at $1.25 trillion, underlining how much money is going into the AI race.", "source": "TechCrunch, 6 Nov", "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"},
-  {"section": "AI & agents", "headline": "Microsoft warns hackers are using AI agents to raid the cloud", "summary": "Microsoft found attackers using an AI agent tool to scan public GitHub code for leaked passwords and keys, then reach cloud data within about five minutes.", "source": "AIdapted (citing Microsoft Threat Intelligence), 8 Nov", "url": "https://aidapted.ro/en/articles/ai-news-8-november-2026/"},
-  {"section": "AI & agents", "headline": "Visa tests find many AI shopping agents still fail", "summary": "In Visa's tests, 42.8% of AI shopping agents failed to complete their tasks, a reminder that agents buying things for you aren't reliable yet.", "source": "note.com AI roundup, 8 Nov", "url": "https://note.com/hirokimiyano/n/nb412bcb34dd0?hl=en"}
+  {
+   "section": "World",
+   "headline": "US disables ship trying to break Iran blockade",
+   "summary": "US forces fired on and disabled a cargo ship in the Gulf of Oman on Saturday after it left an Iranian port. The new Task Force Iron Gate is also pressing Iraq to close its border crossings with Iran.",
+   "source": "Al Jazeera and Foreign Exchanges, 8 Nov",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes"
+  },
+  {
+   "section": "World",
+   "headline": "Floods leave tens of thousands in Gaza without shelter",
+   "summary": "Heavy rain flooded tents in Gaza City and elsewhere, leaving tens of thousands of displaced Palestinians without proper shelter. Israel is still blocking mobile homes from entering, Al Jazeera reports.",
+   "source": "Al Jazeera, 8 Nov",
+   "url": "https://www.aljazeera.com/middle-east/"
+  },
+  {
+   "section": "World",
+   "headline": "South Africa's ANC suffers setback in local elections",
+   "summary": "Results from the 4 November local elections show the governing ANC, led by President Cyril Ramaphosa, losing ground.",
+   "source": "Al Jazeera, 8 Nov",
+   "url": "https://www.aljazeera.com/news/"
+  },
+  {
+   "section": "Business",
+   "headline": "UK expected to cut its 2030 electric car target",
+   "summary": "The government is expected to lower the share of new car sales that must be fully electric by 2030 from 80% to around 60%, after pressure from carmakers. The 2035 end date for new petrol and diesel cars is not affected.",
+   "source": "Rallies/EWU and Electrive (citing the FT), 9 Nov",
+   "url": "https://rallies.ai/news/uk-stocksfactors-to-watch-on-november-9-b616838616bab7f8"
+  },
+  {
+   "section": "Business",
+   "headline": "UK jobs market cooled in October, but starting pay rose",
+   "summary": "A recruiters' survey found fewer people being hired in October, while starting salaries for permanent jobs rose faster. It comes days after the Bank of England raised interest rates to 4%.",
+   "source": "Rallies/EWU, 9 Nov",
+   "url": "https://rallies.ai/news/uk-stocksfactors-to-watch-on-november-9-b616838616bab7f8"
+  },
+  {
+   "section": "Business",
+   "headline": "GSK and Moderna settle vaccine patent fight",
+   "summary": "GSK and Moderna have settled lawsuits claiming Moderna's COVID-19 and RSV vaccines used GSK patents. Terms weren't given in the report.",
+   "source": "Rallies/EWU, 9 Nov",
+   "url": "https://rallies.ai/news/uk-stocksfactors-to-watch-on-november-9-b616838616bab7f8"
+  },
+  {
+   "section": "AI & agents",
+   "headline": "OpenAI reportedly raises another $11bn",
+   "summary": "The extra funding reportedly values OpenAI at $1.25 trillion, underlining how much money is going into the AI race.",
+   "source": "TechCrunch, 6 Nov",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+  },
+  {
+   "section": "AI & agents",
+   "headline": "Microsoft warns hackers are using AI agents to raid the cloud",
+   "summary": "Microsoft found attackers using an AI agent tool to scan public GitHub code for leaked passwords and keys, then reach cloud data within about five minutes.",
+   "source": "AIdapted (citing Microsoft Threat Intelligence), 8 Nov",
+   "url": "https://aidapted.ro/en/articles/ai-news-8-november-2026/"
+  },
+  {
+   "section": "AI & agents",
+   "headline": "Visa tests find many AI shopping agents still fail",
+   "summary": "In Visa's tests, 42.8% of AI shopping agents failed to complete their tasks, a reminder that agents buying things for you aren't reliable yet.",
+   "source": "note.com AI roundup, 8 Nov",
+   "url": "https://note.com/hirokimiyano/n/nb412bcb34dd0?hl=en"
+  }
  ]
 }
