@@ -1,69 +1,69 @@
 {
- "date": "2026-11-09",
- "dateLabel": "Mon 9 Nov 2026",
+ "date": "2026-11-10",
+ "dateLabel": "Tue 10 Nov 2026",
  "items": [
   {
    "section": "World",
-   "headline": "US disables ship trying to break Iran blockade",
-   "summary": "US forces fired on and disabled a cargo ship in the Gulf of Oman on Saturday after it left an Iranian port. The new Task Force Iron Gate is also pressing Iraq to close its border crossings with Iran.",
-   "source": "Al Jazeera and Foreign Exchanges, 8 Nov",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes"
+   "headline": "Trump says the Iran war is 'effectively over' militarily",
+   "summary": "After meeting Qatar's prime minister in Washington, Trump said the US was now just keeping the 'status quo' at the request of Iran's neighbours. Iranian officials dismissed his remarks as 'fake news'.",
+   "source": "Al Jazeera, 9 Nov",
+   "url": "https://aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
   },
   {
    "section": "World",
-   "headline": "Floods leave tens of thousands in Gaza without shelter",
-   "summary": "Heavy rain flooded tents in Gaza City and elsewhere, leaving tens of thousands of displaced Palestinians without proper shelter. Israel is still blocking mobile homes from entering, Al Jazeera reports.",
-   "source": "Al Jazeera, 8 Nov",
-   "url": "https://www.aljazeera.com/middle-east/"
-  },
-  {
-   "section": "World",
-   "headline": "South Africa's ANC suffers setback in local elections",
-   "summary": "Results from the 4 November local elections show the governing ANC, led by President Cyril Ramaphosa, losing ground.",
-   "source": "Al Jazeera, 8 Nov",
+   "headline": "Republican congressman moves to impeach Defence Secretary Hegseth",
+   "summary": "Thomas Massie filed a resolution to impeach Pete Hegseth over the war on Iran. President Trump and Marco Rubio have defended Hegseth.",
+   "source": "Al Jazeera, 9 Nov",
    "url": "https://www.aljazeera.com/news/"
   },
   {
-   "section": "Business",
-   "headline": "UK expected to cut its 2030 electric car target",
-   "summary": "The government is expected to lower the share of new car sales that must be fully electric by 2030 from 80% to around 60%, after pressure from carmakers. The 2035 end date for new petrol and diesel cars is not affected.",
-   "source": "Rallies/EWU and Electrive (citing the FT), 9 Nov",
-   "url": "https://rallies.ai/news/uk-stocksfactors-to-watch-on-november-9-b616838616bab7f8"
+   "section": "World",
+   "headline": "France brings forward minimum wage rise to calm protests",
+   "summary": "The government is speeding up a rise in the minimum wage after weeks of protests over living costs, including more than 140,000 marchers on Saturday.",
+   "source": "Al Jazeera, 9 Nov",
+   "url": "https://www.aljazeera.com/europe/"
   },
   {
    "section": "Business",
-   "headline": "UK jobs market cooled in October, but starting pay rose",
-   "summary": "A recruiters' survey found fewer people being hired in October, while starting salaries for permanent jobs rose faster. It comes days after the Bank of England raised interest rates to 4%.",
-   "source": "Rallies/EWU, 9 Nov",
-   "url": "https://rallies.ai/news/uk-stocksfactors-to-watch-on-november-9-b616838616bab7f8"
+   "headline": "FTSE 100 bounces back 1% as miners rally",
+   "summary": "London's top index rose 1.02% on Monday to 10,782.87, helped by mining shares, while oil fell on hopes of a deal over Iran. It had dropped about 1% on Friday.",
+   "source": "Investing.com and Fidelity, 9 Nov",
+   "url": "https://uk.investing.com/news/stock-market-news/form-144-compass-for-10-november-93CH-4970387"
   },
   {
    "section": "Business",
-   "headline": "GSK and Moderna settle vaccine patent fight",
-   "summary": "GSK and Moderna have settled lawsuits claiming Moderna's COVID-19 and RSV vaccines used GSK patents. Terms weren't given in the report.",
-   "source": "Rallies/EWU, 9 Nov",
-   "url": "https://rallies.ai/news/uk-stocksfactors-to-watch-on-november-9-b616838616bab7f8"
+   "headline": "UK house prices fall at fastest yearly rate in three years",
+   "summary": "October's figures showed the sharpest annual fall in house prices since 2023, as higher borrowing costs weigh on buyers.",
+   "source": "Yahoo Finance, 9 Nov",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/uk-stock-market-today-ftse-070849118.html"
+  },
+  {
+   "section": "Business",
+   "headline": "Microsoft offers about 60,000 staff voluntary exits",
+   "summary": "The company has offered buyouts to around 60,000 employees. Microsoft says AI isn't the reason, though its boss has talked about millions of AI agents working alongside staff.",
+   "source": "Windows Latest, 9 Nov",
+   "url": "https://windowslatest.com/2026/11/09/microsofts-ceo-imagines-20-million-ai-agents-doing-the-work-as-the-company-offers-60000-employees-an-exit"
   },
   {
    "section": "AI & agents",
-   "headline": "OpenAI reportedly raises another $11bn",
-   "summary": "The extra funding reportedly values OpenAI at $1.25 trillion, underlining how much money is going into the AI race.",
-   "source": "TechCrunch, 6 Nov",
-   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+   "headline": "Anthropic launches Claude Fable 5.2 and Mythos 5.2",
+   "summary": "Anthropic released new top models for complex technical work. It says a team of 1,000 Fable 5.2 agents fully formalised the proof of Fermat's Last Theorem in 30 hours during testing.",
+   "source": "Anthropic and AI Weekly, 9 Nov",
+   "url": "https://www.anthropic.com/news"
   },
   {
    "section": "AI & agents",
-   "headline": "Microsoft warns hackers are using AI agents to raid the cloud",
-   "summary": "Microsoft found attackers using an AI agent tool to scan public GitHub code for leaked passwords and keys, then reach cloud data within about five minutes.",
-   "source": "AIdapted (citing Microsoft Threat Intelligence), 8 Nov",
-   "url": "https://aidapted.ro/en/articles/ai-news-8-november-2026/"
+   "headline": "Nvidia shares slump as its boss faces an investigation",
+   "summary": "Nvidia shares fell after news of an investigation into chief executive Jensen Huang. President Trump defended Huang.",
+   "source": "Al Jazeera, 9 Nov",
+   "url": "https://www.aljazeera.com/us-canada/"
   },
   {
    "section": "AI & agents",
-   "headline": "Visa tests find many AI shopping agents still fail",
-   "summary": "In Visa's tests, 42.8% of AI shopping agents failed to complete their tasks, a reminder that agents buying things for you aren't reliable yet.",
-   "source": "note.com AI roundup, 8 Nov",
-   "url": "https://note.com/hirokimiyano/n/nb412bcb34dd0?hl=en"
+   "headline": "OpenAI and ADNOC bring AI agents to oil and gas",
+   "summary": "OpenAI is working with Abu Dhabi's national oil company on linked AI agents, starting with planning for oil and gas fields.",
+   "source": "RIO Rundown (citing Crypto Briefing), 9 Nov",
+   "url": "https://riorundown.substack.com/p/ai-news-nov-09-2026-ai-agents-and"
   }
  ]
 }
