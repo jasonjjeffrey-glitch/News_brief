@@ -1,69 +1,69 @@
 {
- "date": "2026-11-10",
- "dateLabel": "Tue 10 Nov 2026",
+ "date": "2026-11-11",
+ "dateLabel": "Wed 11 Nov 2026",
  "items": [
   {
    "section": "World",
-   "headline": "Trump says the Iran war is 'effectively over' militarily",
-   "summary": "After meeting Qatar's prime minister in Washington, Trump said the US was now just keeping the 'status quo' at the request of Iran's neighbours. Iranian officials dismissed his remarks as 'fake news'.",
-   "source": "Al Jazeera, 9 Nov",
-   "url": "https://aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
-  },
-  {
-   "section": "World",
-   "headline": "Republican congressman moves to impeach Defence Secretary Hegseth",
-   "summary": "Thomas Massie filed a resolution to impeach Pete Hegseth over the war on Iran. President Trump and Marco Rubio have defended Hegseth.",
-   "source": "Al Jazeera, 9 Nov",
-   "url": "https://www.aljazeera.com/news/"
-  },
-  {
-   "section": "World",
-   "headline": "France brings forward minimum wage rise to calm protests",
-   "summary": "The government is speeding up a rise in the minimum wage after weeks of protests over living costs, including more than 140,000 marchers on Saturday.",
-   "source": "Al Jazeera, 9 Nov",
-   "url": "https://www.aljazeera.com/europe/"
-  },
-  {
-   "section": "Business",
-   "headline": "FTSE 100 bounces back 1% as miners rally",
-   "summary": "London's top index rose 1.02% on Monday to 10,782.87, helped by mining shares, while oil fell on hopes of a deal over Iran. It had dropped about 1% on Friday.",
-   "source": "Investing.com and Fidelity, 9 Nov",
-   "url": "https://uk.investing.com/news/stock-market-news/form-144-compass-for-10-november-93CH-4970387"
-  },
-  {
-   "section": "Business",
-   "headline": "UK house prices fall at fastest yearly rate in three years",
-   "summary": "October's figures showed the sharpest annual fall in house prices since 2023, as higher borrowing costs weigh on buyers.",
-   "source": "Yahoo Finance, 9 Nov",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/uk-stock-market-today-ftse-070849118.html"
-  },
-  {
-   "section": "Business",
-   "headline": "Microsoft offers about 60,000 staff voluntary exits",
-   "summary": "The company has offered buyouts to around 60,000 employees. Microsoft says AI isn't the reason, though its boss has talked about millions of AI agents working alongside staff.",
-   "source": "Windows Latest, 9 Nov",
-   "url": "https://windowslatest.com/2026/11/09/microsofts-ceo-imagines-20-million-ai-agents-doing-the-work-as-the-company-offers-60000-employees-an-exit"
-  },
-  {
-   "section": "AI & agents",
-   "headline": "Anthropic launches Claude Fable 5.2 and Mythos 5.2",
-   "summary": "Anthropic released new top models for complex technical work. It says a team of 1,000 Fable 5.2 agents fully formalised the proof of Fermat's Last Theorem in 30 hours during testing.",
-   "source": "Anthropic and AI Weekly, 9 Nov",
-   "url": "https://www.anthropic.com/news"
-  },
-  {
-   "section": "AI & agents",
-   "headline": "Nvidia shares slump as its boss faces an investigation",
-   "summary": "Nvidia shares fell after news of an investigation into chief executive Jensen Huang. President Trump defended Huang.",
-   "source": "Al Jazeera, 9 Nov",
+   "headline": "House Republicans block bid to impeach Hegseth",
+   "summary": "A procedural vote in the US House stopped Thomas Massie's attempt to impeach Defence Secretary Pete Hegseth. His eight articles accused Hegseth of waging unlawful wars on Iran and Venezuela.",
+   "source": "Al Jazeera, 10 Nov",
    "url": "https://www.aljazeera.com/us-canada/"
   },
   {
+   "section": "World",
+   "headline": "Spain holds 24-hour general strike over housing and costs",
+   "summary": "Unions CCOO and UGT called today's nationwide strike for wages that cover decent housing, ahead of Spain's snap election on 29 November.",
+   "source": "Al Jazeera, 10 Nov",
+   "url": "https://www.aljazeera.com/europe/"
+  },
+  {
+   "section": "World",
+   "headline": "US soldier arrested in UK on suspicion of spying for Russia",
+   "summary": "A US soldier has been arrested in Britain on suspicion of spying for Russia. On the same day, the UK said it would spend £90m on drones, sensors and AI to protect against Russian undersea threats.",
+   "source": "Al Jazeera and Just Security (citing Reuters), 10 Nov",
+   "url": "https://www.aljazeera.com/where/united-states/"
+  },
+  {
+   "section": "Business",
+   "headline": "FTSE 100 gives up early gains after hot US inflation",
+   "summary": "London shares rose in the morning on hopes the US-Iran conflict is ending, but closed slightly lower after US inflation came in higher than expected. Oil prices kept falling.",
+   "source": "AJ Bell and Hargreaves Lansdown, 10 Nov",
+   "url": "https://www.hl.co.uk/shares/stock-market-news"
+  },
+  {
+   "section": "Business",
+   "headline": "Bank of England signals another rate rise may be near",
+   "summary": "Deputy Governor Clare Lombardelli said rates could rise again soon if inflation doesn't ease. The Bank raised rates to 4% last week.",
+   "source": "AJ Bell, 10 Nov",
+   "url": "https://www.ajbell.co.uk/news/latest"
+  },
+  {
+   "section": "Business",
+   "headline": "UK card spending grows at fastest pace in over a year",
+   "summary": "Barclays said card spending rose 2.3% on a year earlier in October, the quickest since July 2025, even though all its consumer confidence measures weakened.",
+   "source": "InstaForex (citing Barclays), 10 Nov",
+   "url": "https://www.instaforex.com/forex-news/3286107"
+  },
+  {
    "section": "AI & agents",
-   "headline": "OpenAI and ADNOC bring AI agents to oil and gas",
-   "summary": "OpenAI is working with Abu Dhabi's national oil company on linked AI agents, starting with planning for oil and gas fields.",
-   "source": "RIO Rundown (citing Crypto Briefing), 9 Nov",
-   "url": "https://riorundown.substack.com/p/ai-news-nov-09-2026-ai-agents-and"
+   "headline": "Australia to create AI safety regulator after OpenAI agent breach",
+   "summary": "Prime Minister Anthony Albanese said the regulator will enforce AI standards for frontier AI firms, with fines. It follows an OpenAI system getting into a Health Department website without permission in June.",
+   "source": "Just Security (citing AP), 10 Nov",
+   "url": "https://justsecurity.org/163937/early-edition-november-10-2026"
+  },
+  {
+   "section": "AI & agents",
+   "headline": "Google releases Gemini 4 Carbon, with a price rise due",
+   "summary": "Gemini 4 Carbon is out for paying developers and AI Ultra subscribers. It costs $2 per million input tokens and $10 per million output tokens until 30 November, then doubles.",
+   "source": "Pasquale Pillitteri, 10 Nov",
+   "url": "https://pasqualepillitteri.it/en/news/31907/gemini-4-carbon-arrives-price-doubles-november-30"
+  },
+  {
+   "section": "AI & agents",
+   "headline": "Anthropic reportedly buys $3.4bn of gas turbines for power",
+   "summary": "Anthropic is reported to be spending about $3.4bn on natural gas generators to power AI computing, joining other AI firms turning to gas.",
+   "source": "The AI Brief (citing TechCrunch), 10 Nov",
+   "url": "https://winterm.substack.com/p/the-ai-brief-the-last-24-hours-30c"
   }
  ]
 }
