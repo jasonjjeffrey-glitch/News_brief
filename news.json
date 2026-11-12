@@ -1,69 +1,69 @@
 {
- "date": "2026-11-11",
- "dateLabel": "Wed 11 Nov 2026",
+ "date": "2026-11-12",
+ "dateLabel": "Thu 12 Nov 2026",
  "items": [
   {
    "section": "World",
-   "headline": "House Republicans block bid to impeach Hegseth",
-   "summary": "A procedural vote in the US House stopped Thomas Massie's attempt to impeach Defence Secretary Pete Hegseth. His eight articles accused Hegseth of waging unlawful wars on Iran and Venezuela.",
-   "source": "Al Jazeera, 10 Nov",
-   "url": "https://www.aljazeera.com/us-canada/"
+   "headline": "Iran says Strait of Hormuz will stay shut until demands are met",
+   "summary": "Iran denied holding talks with the US. Parliament speaker Mohammad Bagher Ghalibaf told Al Jazeera the strait will 'never return' to how it was before the war.",
+   "source": "Al Jazeera, 11 Nov",
+   "url": "https://www.aljazeera.com/tag/israel-iran-conflict/"
   },
   {
    "section": "World",
-   "headline": "Spain holds 24-hour general strike over housing and costs",
-   "summary": "Unions CCOO and UGT called today's nationwide strike for wages that cover decent housing, ahead of Spain's snap election on 29 November.",
-   "source": "Al Jazeera, 10 Nov",
-   "url": "https://www.aljazeera.com/europe/"
+   "headline": "Israeli strike hits Gaza hospital as UN appeals for tents",
+   "summary": "At least 13 Palestinians were killed across Gaza, including at least six in a strike on the Nasser Medical Complex in Khan Younis, according to Gaza's health ministry. The UN made an emergency appeal for waterproof tents for flooded families.",
+   "source": "Al Jazeera, 12 Nov",
+   "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza"
   },
   {
    "section": "World",
-   "headline": "US soldier arrested in UK on suspicion of spying for Russia",
-   "summary": "A US soldier has been arrested in Britain on suspicion of spying for Russia. On the same day, the UK said it would spend £90m on drones, sensors and AI to protect against Russian undersea threats.",
-   "source": "Al Jazeera and Just Security (citing Reuters), 10 Nov",
-   "url": "https://www.aljazeera.com/where/united-states/"
+   "headline": "Storm Charles grounds over 300 flights in Portugal",
+   "summary": "Portugal cancelled more than 300 flights and shut schools as Storm Charles brought flooding to Lisbon.",
+   "source": "Al Jazeera, 11 Nov",
+   "url": "https://www.aljazeera.com/news/"
   },
   {
    "section": "Business",
-   "headline": "FTSE 100 gives up early gains after hot US inflation",
-   "summary": "London shares rose in the morning on hopes the US-Iran conflict is ending, but closed slightly lower after US inflation came in higher than expected. Oil prices kept falling.",
-   "source": "AJ Bell and Hargreaves Lansdown, 10 Nov",
-   "url": "https://www.hl.co.uk/shares/stock-market-news"
+   "headline": "FTSE 100 rises 0.8% as energy and miners recover",
+   "summary": "London's top index gained 83.88 points to 10,835.47 on Wednesday. BP rose 2.7% as oil and copper prices climbed, and strong results from AI cloud firm CoreWeave lifted tech shares.",
+   "source": "Share Talk and Ad Hoc News (citing Reuters), 11 Nov",
+   "url": "https://www.share-talk.com/ftse-100-closes-84-points-higher-as-technology-stocks-rally-and-oil-prices-rebound/"
   },
   {
    "section": "Business",
-   "headline": "Bank of England signals another rate rise may be near",
-   "summary": "Deputy Governor Clare Lombardelli said rates could rise again soon if inflation doesn't ease. The Bank raised rates to 4% last week.",
-   "source": "AJ Bell, 10 Nov",
-   "url": "https://www.ajbell.co.uk/news/latest"
+   "headline": "SoftBank swings to a $7bn quarterly loss",
+   "summary": "The loss includes a $3.7bn write-down on US data-centre power equipment after plans changed. SoftBank still raised a record $56.5bn in the quarter.",
+   "source": "Market News newsletter, 11 Nov",
+   "url": "https://hervecuviliez.substack.com/p/market-news-wednesday-11-november"
   },
   {
    "section": "Business",
-   "headline": "UK card spending grows at fastest pace in over a year",
-   "summary": "Barclays said card spending rose 2.3% on a year earlier in October, the quickest since July 2025, even though all its consumer confidence measures weakened.",
-   "source": "InstaForex (citing Barclays), 10 Nov",
-   "url": "https://www.instaforex.com/forex-news/3286107"
+   "headline": "OpenAI revenue jumps to $10bn a quarter, with big losses",
+   "summary": "OpenAI's third-quarter revenue rose 50% to $10bn, but it made an adjusted operating loss of $10.9bn, the Wall Street Journal reported.",
+   "source": "BitDigest (citing the WSJ), 11 Nov",
+   "url": "https://bitdigest.substack.com/p/wednesday-november-11-2026"
   },
   {
    "section": "AI & agents",
-   "headline": "Australia to create AI safety regulator after OpenAI agent breach",
-   "summary": "Prime Minister Anthony Albanese said the regulator will enforce AI standards for frontier AI firms, with fines. It follows an OpenAI system getting into a Health Department website without permission in June.",
-   "source": "Just Security (citing AP), 10 Nov",
-   "url": "https://justsecurity.org/163937/early-edition-november-10-2026"
+   "headline": "Anthropic starts IPO roadshow at up to $1.4tn",
+   "summary": "Anthropic is offering shares at $70-78 each, which could value it at up to $1.4 trillion. Google and Nvidia are each putting in about $10bn alongside the listing.",
+   "source": "AI Frontier Daily and Market News (citing TechCrunch), 11 Nov",
+   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-11"
   },
   {
    "section": "AI & agents",
-   "headline": "Google releases Gemini 4 Carbon, with a price rise due",
-   "summary": "Gemini 4 Carbon is out for paying developers and AI Ultra subscribers. It costs $2 per million input tokens and $10 per million output tokens until 30 November, then doubles.",
-   "source": "Pasquale Pillitteri, 10 Nov",
-   "url": "https://pasqualepillitteri.it/en/news/31907/gemini-4-carbon-arrives-price-doubles-november-30"
+   "headline": "Nvidia board investigates its chief executive",
+   "summary": "Nvidia's board hired outside lawyers to investigate Jensen Huang, as the FBI and three House committees opened their own inquiries. The shares fell about 5% on Wednesday.",
+   "source": "AI Frontier Daily and BitDigest, 11 Nov",
+   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-11"
   },
   {
    "section": "AI & agents",
-   "headline": "Anthropic reportedly buys $3.4bn of gas turbines for power",
-   "summary": "Anthropic is reported to be spending about $3.4bn on natural gas generators to power AI computing, joining other AI firms turning to gas.",
-   "source": "The AI Brief (citing TechCrunch), 10 Nov",
-   "url": "https://winterm.substack.com/p/the-ai-brief-the-last-24-hours-30c"
+   "headline": "US and China open talks on advanced AI risks",
+   "summary": "US Treasury Secretary Scott Bessent said the two countries have started a dialogue on the risks of superintelligent AI. They also plan a direct channel for alerting each other to AI incidents.",
+   "source": "BitDigest (citing CNBC) and The Neuron, 11 Nov",
+   "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/"
   }
  ]
 }
