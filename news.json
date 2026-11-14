@@ -1,68 +1,68 @@
 {
- "date": "2026-11-13",
- "dateLabel": "Fri 13 Nov 2026",
+ "date": "2026-11-14",
+ "dateLabel": "Sat 14 Nov 2026",
  "items": [
   {
    "section": "World",
-   "headline": "US envoys and Putin agree to keep Ukraine peace talks going",
-   "summary": "US special envoy Steve Witkoff and Jared Kushner flew to Moscow, and both sides agreed to continue talks on ending the Russia-Ukraine war.",
-   "source": "Al Jazeera, 12 Nov",
-   "url": "https://www.aljazeera.com/news/"
+   "headline": "US flights resume after nationwide ground stop",
+   "summary": "The FAA halted flights across the US for hours, blaming outdated equipment. More than 10,000 flights were delayed and over 4,000 cancelled, affecting about 1.5 million passengers.",
+   "source": "Al Jazeera, 13 Nov",
+   "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue"
   },
   {
    "section": "World",
-   "headline": "Iran threatens wider war as Israel reportedly readies strikes",
-   "summary": "Israeli media say the security cabinet ordered the military to prepare for possible strikes on Iran. Tehran warned it would take the war beyond the region if attacked.",
-   "source": "Al Jazeera, 12 Nov",
-   "url": "https://aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack"
+   "headline": "Turkey and Qatar sign a mutual defence pact",
+   "summary": "President Erdogan and Qatar's Emir Sheikh Tamim signed the agreement in Istanbul, deepening ties amid instability in the region.",
+   "source": "Al Jazeera, 13 Nov",
+   "url": "https://www.aljazeera.com/middle-east/"
   },
   {
    "section": "World",
-   "headline": "Mississippi elects its first Black senator since 1874",
-   "summary": "Democrat Scott Colom won the closely watched US Senate race in Mississippi.",
-   "source": "Al Jazeera, 11-12 Nov",
+   "headline": "Tanker hits mines in Hormuz as UN presses Iran on inspections",
+   "summary": "Iran's Revolutionary Guards said a gas carrier caught fire after hitting mines in the Strait of Hormuz. The UN nuclear watchdog called on Iran to reopen its nuclear sites to inspectors.",
+   "source": "Al Jazeera, 13 Nov",
+   "url": "https://www.aljazeera.com/where/iran/"
+  },
+  {
+   "section": "Business",
+   "headline": "FTSE 100 closes at a three-month high",
+   "summary": "London's top index rose about 0.4% on Friday as investors moved into energy and defensive shares during a wobble in AI stocks. Centrica jumped 3.8% and BP and Shell rose about 1.5%.",
+   "source": "Reuters via Euronext and Yahoo Finance, 13 Nov",
+   "url": "https://live.euronext.com/en/financial-news/ftse-100-closes-3-month-high-energy-and-defensive-stocks-rise"
+  },
+  {
+   "section": "Business",
+   "headline": "Microsoft outage stretches into a second day",
+   "summary": "Server failures disrupted governments, businesses and individuals worldwide, with Microsoft 365 services only gradually returning.",
+   "source": "Al Jazeera, 13-14 Nov",
    "url": "https://www.aljazeera.com/us-canada/"
   },
   {
    "section": "Business",
-   "headline": "UK economy grows 0.7% in the third quarter",
-   "summary": "Growth picked up from 0.5% in the previous quarter, led by services. September alone grew 0.2%, beating forecasts of no growth.",
-   "source": "MarketScreener (Alliance News), 12 Nov",
-   "url": "https://www.marketscreener.com/news/ftse-100-edges-up-as-uk-growth-accelerates-ce785ed8db80f227"
-  },
-  {
-   "section": "Business",
-   "headline": "FTSE 100 edges up as Burberry jumps 8%",
-   "summary": "The index rose 0.25% to 10,863.09, helped by strong results from Burberry and 3i, despite a dip in the afternoon on Nvidia news.",
-   "source": "Yahoo Finance and BBN Times, 12 Nov",
-   "url": "https://uk.finance.yahoo.com/news/ftse-100-rises-uk-gdp-164959636.html"
-  },
-  {
-   "section": "Business",
-   "headline": "Nvidia's Jensen Huang resigns as chief executive",
-   "summary": "Finance chief Colette Kress is interim CEO after an investigation into Huang widened. The shares fell about 12% at the open, after a week that has wiped more than $600bn off the company's value.",
-   "source": "AI Frontier Daily and Nvidia, 12 Nov",
-   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-12"
+   "headline": "US Treasury warns against rate rises during energy shock",
+   "summary": "Treasury Secretary Scott Bessent argued against raising US interest rates while the Iran war pushes up energy prices, though markets still expect a rise in December.",
+   "source": "Al Jazeera, 13 Nov",
+   "url": "https://www.aljazeera.com/where/united-states/"
   },
   {
    "section": "AI & agents",
-   "headline": "United Airlines blocks AI agents from booking flights",
-   "summary": "United is stopping unauthorised AI agents from making bookings, as more people try letting AI shop for them.",
-   "source": "The Neuron, 12 Nov",
-   "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-12-2026/"
+   "headline": "OpenAI launches ChatGPT Wallet for AI shopping agents",
+   "summary": "Its agents can now buy things for you after a one-time card entry, with your approval needed for each purchase.",
+   "source": "AI Weekly, 13 Nov",
+   "url": "https://aiweekly.co/ai-news-today"
   },
   {
    "section": "AI & agents",
-   "headline": "Google launches Gemini 4 Hydrogen for fast coding and agents",
-   "summary": "The model costs $1.50 per million input tokens and $7.50 per million output tokens, and Google says it finishes tasks 2.5 times faster than Gemini 3.8 Flash.",
-   "source": "Future Tools (citing Google), 12 Nov",
-   "url": "https://futuretools.io/news"
+   "headline": "Nonprofits sue five AI labs to freeze frontier AI",
+   "summary": "Four nonprofit groups are asking a court to halt development of the most advanced models at labs including Anthropic, Google, Meta and OpenAI, citing the labs' own warnings about extreme risks.",
+   "source": "Deep Gains and The Neuron, 13 Nov",
+   "url": "https://deepgains.substack.com/p/morning-brief-friday-november-13-928"
   },
   {
    "section": "AI & agents",
-   "headline": "Anthropic bars Claude use from mainland China",
-   "summary": "From 12 November, Claude can't be used from mainland China or by companies controlled from there. Suspicious accounts face ID checks and can be closed.",
-   "source": "AI Weekly, 12 Nov",
+   "headline": "AI agent firm LangChain raises $300m at $3bn valuation",
+   "summary": "The funding round was led by CapitalG. Its LangSmith tool for building and monitoring AI agents now serves 7,000 customers.",
+   "source": "AI Weekly, 13 Nov",
    "url": "https://aiweekly.co/ai-news-today"
   }
  ]
