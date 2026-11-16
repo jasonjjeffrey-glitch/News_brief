@@ -1,69 +1,69 @@
 {
- "date": "2026-11-15",
- "dateLabel": "Sun 15 Nov 2026",
+ "date": "2026-11-16",
+ "dateLabel": "Mon 16 Nov 2026",
  "items": [
   {
    "section": "World",
-   "headline": "Trump, Xi and Putin to hold first three-way summit",
-   "summary": "The three leaders will meet in China on the sidelines of the APEC summit. The White House says Trump plans to discuss the Iran war and nuclear arms.",
-   "source": "Al Jazeera, 14 Nov",
-   "url": "https://www.aljazeera.com/news/"
+   "headline": "Iran says it fired drones at a US radar in Bahrain",
+   "summary": "Iran's Revolutionary Guards say six drones targeted a US air defence radar at Bahrain's Riffa Air Base as a warning over activity in the Strait of Hormuz. Bahrain says its air defences stopped several attacks.",
+   "source": "Al Jazeera, 15 Nov",
+   "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know"
   },
   {
    "section": "World",
-   "headline": "US envoy Kushner aims to bring Europe and Russia into Ukraine talks",
-   "summary": "Jared Kushner said both Kyiv and Moscow know compromises will be needed, and that he is working on direct talks between Europe and Russia as the next step.",
-   "source": "Al Jazeera and Reuters, 14 Nov",
-   "url": "https://aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine"
+   "headline": "UK, Australia, Canada and Italy urge Israel to let aid into Gaza",
+   "summary": "The four countries accuse Israel of blocking tents and other supplies from reaching Gaza despite the humanitarian crisis.",
+   "source": "Al Jazeera, 15 Nov",
+   "url": "https://www.aljazeera.com/tag/israel-palestine-conflict/"
   },
   {
    "section": "World",
-   "headline": "UN says 25 seafarers killed around Hormuz since the war began",
-   "summary": "The UN counted 25 seafarers killed in and around the Strait of Hormuz since the US-Israel war on Iran started.",
-   "source": "Al Jazeera, 14 Nov",
-   "url": "https://www.aljazeera.com/news/"
+   "headline": "Saudi-led coalition shoots down Houthi missiles aimed at Riyadh",
+   "summary": "The coalition says it intercepted two ballistic missiles and two drones. The UN migration agency says more than 340,000 Yemenis have been displaced since August as fighting escalates.",
+   "source": "Al Jazeera, 15 Nov",
+   "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh"
   },
   {
    "section": "Business",
-   "headline": "Anthropic's share sale is about six times oversubscribed",
-   "summary": "Anthropic expects to set its final share price on 18 November, with trading on Nasdaq under the ticker ANT from the next day.",
-   "source": "AI Frontier Daily, 14 Nov",
-   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-14"
+   "headline": "FTSE 100 ends the week at a three-month high",
+   "summary": "The index rose 0.4% on Friday to about 10,906, its third gain in a row, helped by oil majors such as Shell and BP as oil prices held firm.",
+   "source": "Trading Economics, 13 Nov",
+   "url": "https://tradingeconomics.com/united-kingdom/stock-market"
   },
   {
    "section": "Business",
-   "headline": "Poundland stores to get 16m new grocery items",
-   "summary": "The struggling discount chain's owner has released funds to restock its shops while rescue talks continue.",
-   "source": "ITV via NewsNow, 14 Nov",
-   "url": "https://www.newsnow.co.uk/h/Business+&+Finance"
+   "headline": "UK inflation and jobs figures due this week",
+   "summary": "After strong GDP data last week, markets will watch whether price growth speeds up, which would raise the risk of another Bank of England rate rise before the year ends.",
+   "source": "IG week ahead, w/c 16 Nov",
+   "url": "https://www.ig.com/uk/trading-subscriptions/week-ahead"
   },
   {
    "section": "Business",
-   "headline": "CrowdStrike buys two AI-agent security start-ups",
-   "summary": "The cyber security firm is reported to be paying about $495m in total. It also added an emergency 'kill switch' that lets security staff stop a rogue AI agent.",
-   "source": "TIKR and AI Agent Store, 14 Nov",
-   "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-2026-11-14"
+   "headline": "US Treasury chief wants an outsider to run Nvidia",
+   "summary": "Scott Bessent has called for someone from outside the company to lead Nvidia after Jensen Huang's resignation.",
+   "source": "Al Jazeera, 15 Nov",
+   "url": "https://www.aljazeera.com/where/united-states/"
   },
   {
    "section": "AI & agents",
-   "headline": "Nvidia approaches Arm boss Rene Haas to be its next CEO",
-   "summary": "After Jensen Huang's resignation, Nvidia's board says it will search inside and outside the company for a permanent successor.",
-   "source": "AI news roundup on note.com, 14 Nov",
-   "url": "https://note.com/hirokimiyano/n/nfbe1c6a4d41a?hl=en"
+   "headline": "Anthropic lowers its IPO valuation target to about $1.4 trillion",
+   "summary": "That is below the roughly $2 trillion investors expected earlier this year. Pricing is set for Wednesday, with trading from Thursday; Nvidia also reports results on Tuesday.",
+   "source": "AI Frontier Daily, 15 Nov",
+   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-15"
   },
   {
    "section": "AI & agents",
-   "headline": "OpenAI disbands its robotics team",
-   "summary": "OpenAI says general-purpose AI models can now run robots, so it no longer needs a separate robotics team.",
-   "source": "AI Weekly, 13 Nov",
-   "url": "https://aiweekly.co/ai-news-today"
+   "headline": "Nvidia investors ask board to keep door open for Huang",
+   "summary": "Two large shareholders wrote to the board saying interim CEO Colette Kress can lead capably for now, but stopped short of demanding Huang's return.",
+   "source": "AI Frontier Daily, 15 Nov",
+   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-15"
   },
   {
    "section": "AI & agents",
-   "headline": "Cloudflare open-sources a web browser built for AI agents",
-   "summary": "Kitesurf is a lightweight browser engine that AI agents can use instead of a full copy of Chrome.",
-   "source": "AI Frontier Daily, 14 Nov",
-   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-14"
+   "headline": "LangChain raises $300m for its AI agent platform",
+   "summary": "The funding values the agent-building company at $3 billion.",
+   "source": "AI Agents News Brief, 15 Nov",
+   "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-november-15-2026"
   }
  ]
 }
