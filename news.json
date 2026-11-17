@@ -1,69 +1,69 @@
 {
- "date": "2026-11-16",
- "dateLabel": "Mon 16 Nov 2026",
+ "date": "2026-11-17",
+ "dateLabel": "Tue 17 Nov 2026",
  "items": [
   {
    "section": "World",
-   "headline": "Iran says it fired drones at a US radar in Bahrain",
-   "summary": "Iran's Revolutionary Guards say six drones targeted a US air defence radar at Bahrain's Riffa Air Base as a warning over activity in the Strait of Hormuz. Bahrain says its air defences stopped several attacks.",
-   "source": "Al Jazeera, 15 Nov",
-   "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know"
+   "headline": "Saudi Arabia replaces commander of coalition fighting the Houthis",
+   "summary": "A royal decree on Monday put General Fayyad al-Ruwaili in charge of the Saudi Joint Forces, replacing Lt Gen Fahd bin Hamad al-Salman, as the Houthis edge closer to Aden.",
+   "source": "Al Jazeera and Reuters, 16 Nov",
+   "url": "https://aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis"
   },
   {
    "section": "World",
-   "headline": "UK, Australia, Canada and Italy urge Israel to let aid into Gaza",
-   "summary": "The four countries accuse Israel of blocking tents and other supplies from reaching Gaza despite the humanitarian crisis.",
-   "source": "Al Jazeera, 15 Nov",
-   "url": "https://www.aljazeera.com/tag/israel-palestine-conflict/"
+   "headline": "Russian attacks kill three in Ukraine as EU accuses Moscow",
+   "summary": "EU foreign policy chief Kaja Kallas said Vladimir Putin is making maximalist demands and stalling talks aimed at ending the war.",
+   "source": "Al Jazeera, 16 Nov",
+   "url": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war"
   },
   {
    "section": "World",
-   "headline": "Saudi-led coalition shoots down Houthi missiles aimed at Riyadh",
-   "summary": "The coalition says it intercepted two ballistic missiles and two drones. The UN migration agency says more than 340,000 Yemenis have been displaced since August as fighting escalates.",
-   "source": "Al Jazeera, 15 Nov",
-   "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh"
+   "headline": "UK seeks closer ties with the EU",
+   "summary": "Prime Minister Andy Burnham's government is pushing for a closer relationship with Brussels; UK defence shares rose on Monday on hopes of deeper UK-EU cooperation.",
+   "source": "Al Jazeera, 17 Nov",
+   "url": "https://www.aljazeera.com/news/"
   },
   {
    "section": "Business",
-   "headline": "FTSE 100 ends the week at a three-month high",
-   "summary": "The index rose 0.4% on Friday to about 10,906, its third gain in a row, helped by oil majors such as Shell and BP as oil prices held firm.",
-   "source": "Trading Economics, 13 Nov",
-   "url": "https://tradingeconomics.com/united-kingdom/stock-market"
+   "headline": "FTSE 100 slips as miners and US tech weigh",
+   "summary": "The index fell 0.2% to 10,881.55 on Monday after earlier gains, and the FTSE 250 lost 0.4% to 24,700.06, ahead of Nvidia's results and Anthropic's market debut.",
+   "source": "Share Talk, 16 Nov",
+   "url": "https://www.share-talk.com/ftse-100-closes-lower-amid-us-technology-sell-off/"
   },
   {
    "section": "Business",
-   "headline": "UK inflation and jobs figures due this week",
-   "summary": "After strong GDP data last week, markets will watch whether price growth speeds up, which would raise the risk of another Bank of England rate rise before the year ends.",
-   "source": "IG week ahead, w/c 16 Nov",
-   "url": "https://www.ig.com/uk/trading-subscriptions/week-ahead"
+   "headline": "Defence firms rally while miners fall on copper prices",
+   "summary": "Babcock and BAE Systems were the FTSE 100's top gainers on Monday, while metal miners retreated as copper prices dropped.",
+   "source": "Sharecast, 16 Nov",
+   "url": "https://www.sharecast.com/news/risers-and-fallers/ftse-100-babcock-bae-systems-coca-cola-hbc-fresnillo-legal-general-lg--24190028.html"
   },
   {
    "section": "Business",
-   "headline": "US Treasury chief wants an outsider to run Nvidia",
-   "summary": "Scott Bessent has called for someone from outside the company to lead Nvidia after Jensen Huang's resignation.",
-   "source": "Al Jazeera, 15 Nov",
-   "url": "https://www.aljazeera.com/where/united-states/"
+   "headline": "Nasdaq falls more than 2% as Nvidia drags AI shares",
+   "summary": "The US tech index fell for a third day running, with Nvidia due to report its first results since Jensen Huang's resignation.",
+   "source": "CNBC, 16 Nov",
+   "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
   },
   {
    "section": "AI & agents",
-   "headline": "Anthropic lowers its IPO valuation target to about $1.4 trillion",
-   "summary": "That is below the roughly $2 trillion investors expected earlier this year. Pricing is set for Wednesday, with trading from Thursday; Nvidia also reports results on Tuesday.",
-   "source": "AI Frontier Daily, 15 Nov",
-   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-15"
+   "headline": "US to name AI 'national champions', reports say",
+   "summary": "The Wall Street Journal says more than two dozen firms, including Nvidia, Microsoft, OpenAI and Anthropic, would get faster export licences and federal financing help. The companies have not confirmed it.",
+   "source": "AI Frontier Daily, 16 Nov",
+   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-16"
   },
   {
    "section": "AI & agents",
-   "headline": "Nvidia investors ask board to keep door open for Huang",
-   "summary": "Two large shareholders wrote to the board saying interim CEO Colette Kress can lead capably for now, but stopped short of demanding Huang's return.",
-   "source": "AI Frontier Daily, 15 Nov",
-   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-15"
+   "headline": "US moves to block China's remote access to AI chips",
+   "summary": "Washington is acting to stop Chinese firms renting access to advanced AI chips remotely, amid the Nvidia scandal.",
+   "source": "Al Jazeera, 17 Nov",
+   "url": "https://www.aljazeera.com/news/"
   },
   {
    "section": "AI & agents",
-   "headline": "LangChain raises $300m for its AI agent platform",
-   "summary": "The funding values the agent-building company at $3 billion.",
-   "source": "AI Agents News Brief, 15 Nov",
-   "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-november-15-2026"
+   "headline": "OpenAI launches ChatGPT Wallet for AI agent purchases",
+   "summary": "The new feature is meant to let AI agents pay for things on a user's behalf.",
+   "source": "The Neuron, 16 Nov",
+   "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
   }
  ]
 }
