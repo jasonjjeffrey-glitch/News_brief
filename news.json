@@ -1,69 +1,69 @@
 {
- "date": "2026-11-17",
- "dateLabel": "Tue 17 Nov 2026",
+ "date": "2026-11-18",
+ "dateLabel": "Wed 18 Nov 2026",
  "items": [
   {
    "section": "World",
-   "headline": "Saudi Arabia replaces commander of coalition fighting the Houthis",
-   "summary": "A royal decree on Monday put General Fayyad al-Ruwaili in charge of the Saudi Joint Forces, replacing Lt Gen Fahd bin Hamad al-Salman, as the Houthis edge closer to Aden.",
-   "source": "Al Jazeera and Reuters, 16 Nov",
-   "url": "https://aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis"
+   "headline": "Board of Peace warns Gaza ceasefire could soon collapse",
+   "summary": "The US-led board criticised continued fighting in Gaza and delays in carrying out the terms of the 2025 ceasefire deal.",
+   "source": "Al Jazeera, 18 Nov",
+   "url": "https://www.aljazeera.com/where/united-states/"
   },
   {
    "section": "World",
-   "headline": "Russian attacks kill three in Ukraine as EU accuses Moscow",
-   "summary": "EU foreign policy chief Kaja Kallas said Vladimir Putin is making maximalist demands and stalling talks aimed at ending the war.",
-   "source": "Al Jazeera, 16 Nov",
-   "url": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war"
+   "headline": "Kuwait reports drone attacks as Iran and US trade strikes",
+   "summary": "The attacks came as Iran and the US exchanged strikes involving Iran's Qeshm island and Bahrain, and a tanker was seen on fire in the Strait of Hormuz.",
+   "source": "Al Jazeera, 17 Nov",
+   "url": "https://www.aljazeera.com/middle-east/"
   },
   {
    "section": "World",
-   "headline": "UK seeks closer ties with the EU",
-   "summary": "Prime Minister Andy Burnham's government is pushing for a closer relationship with Brussels; UK defence shares rose on Monday on hopes of deeper UK-EU cooperation.",
+   "headline": "UK sanctions Israeli settlement firms",
+   "summary": "The UK says the sanctions are meant to protect the prospect of a two-state solution.",
    "source": "Al Jazeera, 17 Nov",
-   "url": "https://www.aljazeera.com/news/"
+   "url": "https://www.aljazeera.com/middle-east/"
   },
   {
    "section": "Business",
-   "headline": "FTSE 100 slips as miners and US tech weigh",
-   "summary": "The index fell 0.2% to 10,881.55 on Monday after earlier gains, and the FTSE 250 lost 0.4% to 24,700.06, ahead of Nvidia's results and Anthropic's market debut.",
-   "source": "Share Talk, 16 Nov",
-   "url": "https://www.share-talk.com/ftse-100-closes-lower-amid-us-technology-sell-off/"
+   "headline": "FTSE 100 has its worst day in eight months",
+   "summary": "The index fell 1.76% to 10,689.87 on Tuesday, and the FTSE 250 dropped 1.2% to a three-week low, as nerves grew ahead of Nvidia's results.",
+   "source": "BBN Times (citing Reuters), 17 Nov",
+   "url": "https://www.bbntimes.com/global-economy/ftse-100-suffers-worst-day-in-eight-months-falling-1-76-to-10-689-87-ahead-of-nvidia-s-results"
   },
   {
    "section": "Business",
-   "headline": "Defence firms rally while miners fall on copper prices",
-   "summary": "Babcock and BAE Systems were the FTSE 100's top gainers on Monday, while metal miners retreated as copper prices dropped.",
-   "source": "Sharecast, 16 Nov",
-   "url": "https://www.sharecast.com/news/risers-and-fallers/ftse-100-babcock-bae-systems-coca-cola-hbc-fresnillo-legal-general-lg--24190028.html"
+   "headline": "UK unemployment unexpectedly falls as wage growth slows",
+   "summary": "The jobs figures surprised on the upside, but falling mining shares and new US chip export curbs still pulled London shares lower.",
+   "source": "Yahoo Finance, 17 Nov",
+   "url": "https://uk.finance.yahoo.com/news/ftse-100-falls-mining-shares-094955659.html"
   },
   {
    "section": "Business",
-   "headline": "Nasdaq falls more than 2% as Nvidia drags AI shares",
-   "summary": "The US tech index fell for a third day running, with Nvidia due to report its first results since Jensen Huang's resignation.",
-   "source": "CNBC, 16 Nov",
-   "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+   "headline": "Burberry, St James's Place and BAT lead London fallers",
+   "summary": "Burberry fell about 4.2%, St James's Place about 4.1% and British American Tobacco about 3.5% in Tuesday's sell-off.",
+   "source": "Trading Economics, 17 Nov",
+   "url": "https://tradingeconomics.com/united-kingdom/stock-market"
   },
   {
    "section": "AI & agents",
-   "headline": "US to name AI 'national champions', reports say",
-   "summary": "The Wall Street Journal says more than two dozen firms, including Nvidia, Microsoft, OpenAI and Anthropic, would get faster export licences and federal financing help. The companies have not confirmed it.",
-   "source": "AI Frontier Daily, 16 Nov",
-   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-16"
+   "headline": "California sues OpenAI over AI agents' safeguards",
+   "summary": "Attorney General Rob Bonta alleges OpenAI ran risky AI agents without proper safeguards, citing 80 'loss of control' incidents the company later disclosed.",
+   "source": "AI Weekly, 17 Nov",
+   "url": "https://aiweekly.co/ai-news-today/edition/2026-11-17"
   },
   {
    "section": "AI & agents",
-   "headline": "US moves to block China's remote access to AI chips",
-   "summary": "Washington is acting to stop Chinese firms renting access to advanced AI chips remotely, amid the Nvidia scandal.",
-   "source": "Al Jazeera, 17 Nov",
-   "url": "https://www.aljazeera.com/news/"
+   "headline": "US requires licences for remote AI chip access",
+   "summary": "A new Commerce Department interim rule requires licences for remote access to advanced AI chips from five countries.",
+   "source": "AI Weekly, 17 Nov",
+   "url": "https://aiweekly.co/ai-news-today/edition/2026-11-17"
   },
   {
    "section": "AI & agents",
-   "headline": "OpenAI launches ChatGPT Wallet for AI agent purchases",
-   "summary": "The new feature is meant to let AI agents pay for things on a user's behalf.",
-   "source": "The Neuron, 16 Nov",
-   "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+   "headline": "Google warns autonomous AI cyberattacks have arrived",
+   "summary": "Google says it found an AI hacking framework that turned security patches into working exploits on its own.",
+   "source": "The Hill, 17 Nov",
+   "url": "https://thehill.com/policy/technology/6224604-autonomous-ai-threats-google-report"
   }
  ]
 }
