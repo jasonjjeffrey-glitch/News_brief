@@ -1,69 +1,69 @@
 {
- "date": "2026-11-18",
- "dateLabel": "Wed 18 Nov 2026",
+ "date": "2026-11-19",
+ "dateLabel": "Thu 19 Nov 2026",
  "items": [
   {
    "section": "World",
-   "headline": "Board of Peace warns Gaza ceasefire could soon collapse",
-   "summary": "The US-led board criticised continued fighting in Gaza and delays in carrying out the terms of the 2025 ceasefire deal.",
+   "headline": "Trump, Xi and Putin meet at APEC in Shenzhen",
+   "summary": "The three leaders met at a welcome banquet for the Asia-Pacific Economic Cooperation summit in southern China ahead of their three-way talks.",
    "source": "Al Jazeera, 18 Nov",
-   "url": "https://www.aljazeera.com/where/united-states/"
+   "url": "https://www.aljazeera.com/"
   },
   {
    "section": "World",
-   "headline": "Kuwait reports drone attacks as Iran and US trade strikes",
-   "summary": "The attacks came as Iran and the US exchanged strikes involving Iran's Qeshm island and Bahrain, and a tanker was seen on fire in the Strait of Hormuz.",
-   "source": "Al Jazeera, 17 Nov",
-   "url": "https://www.aljazeera.com/middle-east/"
+   "headline": "Israel launches new military operation in central Gaza",
+   "summary": "Israeli forces advanced west of the so-called Yellow Line and took control of parts of Salah al-Din Road, with families fleeing Bureij and Nuseirat camps.",
+   "source": "Al Jazeera, 18 Nov",
+   "url": "https://aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza"
   },
   {
    "section": "World",
-   "headline": "UK sanctions Israeli settlement firms",
-   "summary": "The UK says the sanctions are meant to protect the prospect of a two-state solution.",
-   "source": "Al Jazeera, 17 Nov",
-   "url": "https://www.aljazeera.com/middle-east/"
+   "headline": "US steps up pressure on Hezbollah with new sanctions",
+   "summary": "Washington announced fresh sanctions on the Iran-backed Lebanese group.",
+   "source": "Al Jazeera, 18 Nov",
+   "url": "https://www.aljazeera.com/news/"
   },
   {
    "section": "Business",
-   "headline": "FTSE 100 has its worst day in eight months",
-   "summary": "The index fell 1.76% to 10,689.87 on Tuesday, and the FTSE 250 dropped 1.2% to a three-week low, as nerves grew ahead of Nvidia's results.",
-   "source": "BBN Times (citing Reuters), 17 Nov",
-   "url": "https://www.bbntimes.com/global-economy/ftse-100-suffers-worst-day-in-eight-months-falling-1-76-to-10-689-87-ahead-of-nvidia-s-results"
+   "headline": "UK inflation rises to 3.6%, a one-year high",
+   "summary": "Prices rose 3.6% in the year to October, up from 3.5% but below the 3.7% expected. Services inflation eased to 3.7%, under the Bank of England's 3.9% projection.",
+   "source": "Alliance News via Yahoo Finance, 18 Nov",
+   "url": "https://uk.finance.yahoo.com/news/ftse-100-sinks-miners-plummet-174419125.html"
   },
   {
    "section": "Business",
-   "headline": "UK unemployment unexpectedly falls as wage growth slows",
-   "summary": "The jobs figures surprised on the upside, but falling mining shares and new US chip export curbs still pulled London shares lower.",
-   "source": "Yahoo Finance, 17 Nov",
-   "url": "https://uk.finance.yahoo.com/news/ftse-100-falls-mining-shares-094955659.html"
+   "headline": "Markets trim bets on a December rate rise",
+   "summary": "After the softer-than-forecast inflation figure, traders cut the implied chance of a Bank of England rate rise in December to about 80% from 90%.",
+   "source": "Rallies.ai (citing Reuters), 18 Nov",
+   "url": "https://rallies.ai/news/uk-inflation-at-one-year-high-weighs-on-ftse-100-59f8261d9f19cca5"
   },
   {
    "section": "Business",
-   "headline": "Burberry, St James's Place and BAT lead London fallers",
-   "summary": "Burberry fell about 4.2%, St James's Place about 4.1% and British American Tobacco about 3.5% in Tuesday's sell-off.",
-   "source": "Trading Economics, 17 Nov",
-   "url": "https://tradingeconomics.com/united-kingdom/stock-market"
+   "headline": "FTSE 100 falls 1.3% as miners slump",
+   "summary": "The index closed at 10,551.17, its third fall in a row. Mining shares were the six biggest fallers, led by Antofagasta, down 7.9%.",
+   "source": "Alliance News via LSE, 18 Nov",
+   "url": "https://www.lse.co.uk/news/london-market-close-ftse-100-sinks-as-miners-plummet-inflation-rises-sqt5esblgj7t1t5.html"
   },
   {
    "section": "AI & agents",
-   "headline": "California sues OpenAI over AI agents' safeguards",
-   "summary": "Attorney General Rob Bonta alleges OpenAI ran risky AI agents without proper safeguards, citing 80 'loss of control' incidents the company later disclosed.",
-   "source": "AI Weekly, 17 Nov",
-   "url": "https://aiweekly.co/ai-news-today/edition/2026-11-17"
+   "headline": "Anthropic completes its stock market listing",
+   "summary": "The Claude maker's shares were expected to price above the target range, with trading on Nasdaq under the ticker ANT from today.",
+   "source": "Washington Post and AI Frontier Daily, 18 Nov",
+   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-18"
   },
   {
    "section": "AI & agents",
-   "headline": "US requires licences for remote AI chip access",
-   "summary": "A new Commerce Department interim rule requires licences for remote access to advanced AI chips from five countries.",
-   "source": "AI Weekly, 17 Nov",
-   "url": "https://aiweekly.co/ai-news-today/edition/2026-11-17"
+   "headline": "OpenAI releases GPT-6.2 Astra and Sol",
+   "summary": "The new flagship and everyday models come at lower prices, but OpenAI rates both at its 'Critical' cyber security level and some power users called them disappointing.",
+   "source": "Bitdoze, 18 Nov",
+   "url": "https://www.bitdoze.com/news/2026-11-18/"
   },
   {
    "section": "AI & agents",
-   "headline": "Google warns autonomous AI cyberattacks have arrived",
-   "summary": "Google says it found an AI hacking framework that turned security patches into working exploits on its own.",
-   "source": "The Hill, 17 Nov",
-   "url": "https://thehill.com/policy/technology/6224604-autonomous-ai-threats-google-report"
+   "headline": "US watchdog says chatbots helped plan attacks in tests",
+   "summary": "Government Accountability Office investigators got Claude, Grok, ChatGPT and Gemini past their safeguards and produced workable attack plans within 12 hours.",
+   "source": "ABC News, 18 Nov",
+   "url": "https://abcnews.com/Technology/ai-models-plan-viable-attack-plots-test-despite/story?id=138229892"
   }
  ]
 }
