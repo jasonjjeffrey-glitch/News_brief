@@ -1,69 +1,69 @@
 {
- "date": "2026-11-20",
- "dateLabel": "Fri 20 Nov 2026",
+ "date": "2026-11-21",
+ "dateLabel": "Sat 21 Nov 2026",
  "items": [
   {
    "section": "World",
-   "headline": "World court finds Myanmar guilty of genocide against Rohingya",
-   "summary": "It is the first time the International Court of Justice has ruled that a state committed genocide. Rohingya refugees in Bangladesh watched the ruling live.",
-   "source": "Al Jazeera, 19 Nov",
+   "headline": "Estonia shuts road border with Russia after drone-maker attack",
+   "summary": "Tallinn closed its road crossings after an attack on a drone manufacturer; Moscow complained of a 'new Iron Curtain'.",
+   "source": "Al Jazeera, 20 Nov",
+   "url": "https://www.aljazeera.com/author/al_jazeera_staff_150119130629458"
+  },
+  {
+   "section": "World",
+   "headline": "Kushner says Trump open to NATO-style guarantees for Ukraine",
+   "summary": "The US envoy spoke after a Coalition of the Willing summit in Berlin attended by Zelenskiy, Merz, Macron and UK PM Andy Burnham.",
+   "source": "Al Jazeera, 20 Nov",
+   "url": "https://www.aljazeera.com/news-analysis/"
+  },
+  {
+   "section": "World",
+   "headline": "COP31 climate talks go into overtime over fossil fuels",
+   "summary": "Deadlock over fossil fuel wording pushed the UN summit in Antalya, Turkey, past its scheduled close.",
+   "source": "Al Jazeera, 20 Nov",
    "url": "https://www.aljazeera.com/news/"
   },
   {
-   "section": "World",
-   "headline": "Trump, Putin and Xi hold three-way talks at APEC",
-   "summary": "The US, Russian and Chinese leaders met in Shenzhen; Trump had said he planned to raise nuclear non-proliferation.",
-   "source": "Al Jazeera, 19 Nov",
-   "url": "https://www.aljazeera.com/europe/"
-  },
-  {
-   "section": "World",
-   "headline": "Denmark approves security deal with Greenland and the US",
-   "summary": "All 109 Danish MPs present backed the agreement, easing tensions over Trump's wish to take over the Arctic island.",
-   "source": "Al Jazeera, 19 Nov",
-   "url": "https://www.aljazeera.com/europe/"
+   "section": "Business",
+   "headline": "FTSE 100 suffers worst week for months, down 5.1%",
+   "summary": "The index fell 1% on Friday to 10,346.34 as the global tech sell-off deepened, despite strong UK retail sales.",
+   "source": "Share Talk, 20 Nov",
+   "url": "https://www.share-talk.com/ftse-100-falls-5-1-in-worst-week-for-months-as-global-tech-sell-off-deepens/"
   },
   {
    "section": "Business",
-   "headline": "FTSE 100 falls to six-week low",
-   "summary": "The index dropped 0.93% to 10,452.68 on Thursday, dragged down by defensive heavyweights such as Unilever, National Grid and AstraZeneca.",
-   "source": "BBN Times and Reuters via Euronext, 19 Nov",
-   "url": "https://www.bbntimes.com/financial/ftse-100-falls-to-10-452-68-despite-anthropic-s-blockbuster-ipo-debut"
+   "headline": "UK retail sales unexpectedly rise 0.7% in October",
+   "summary": "Sales were lifted by government advice to stock up on long-life items, plus stronger clothing sales; annual growth reached 2.3%.",
+   "source": "Reuters via AOL, 20 Nov",
+   "url": "https://www.aol.com/articles/uk-stocks-fall-banks-energy-123004000.html"
   },
   {
    "section": "Business",
-   "headline": "Investec and JD Sports lead London fallers",
-   "summary": "Investec fell about 7.4% and JD Sports about 4.9% after disappointing updates, while Babcock posted strong results.",
-   "source": "Trading Economics and Share Talk, 19 Nov",
-   "url": "https://tradingeconomics.com/united-kingdom/stock-market"
-  },
-  {
-   "section": "Business",
-   "headline": "UK consumer confidence weakens as inflation worries grow",
-   "summary": "Gloomier shoppers and concern about energy-driven price rises weighed on London shares, which lagged other European markets.",
-   "source": "Yahoo Finance, 19 Nov",
-   "url": "https://uk.finance.yahoo.com/news/ftse-100-edges-lower-uk-101311859.html"
+   "headline": "Nvidia plunges 11% as Wall Street sell-off deepens",
+   "summary": "The Nasdaq 100 fell 4.5% as investors kept pulling back from AI-related shares.",
+   "source": "Share Talk, 20 Nov",
+   "url": "https://www.share-talk.com/ftse-100-falls-5-1-in-worst-week-for-months-as-global-tech-sell-off-deepens/"
   },
   {
    "section": "AI & agents",
-   "headline": "Anthropic shares jump 17% in record stock market debut",
-   "summary": "Priced at $83, the shares opened at $111.50 and closed at $97.17, valuing the Claude maker at about $1.76 trillion. It is the largest IPO ever.",
-   "source": "CNN, 19 Nov",
-   "url": "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo"
+   "headline": "Anthropic completes $93.5bn share sale as stock slides again",
+   "summary": "Underwriters took up their full option, while the shares fell for a second day. Riot Platforms confirmed a $28bn, 15-year Texas data centre lease with Anthropic.",
+   "source": "AI Frontier Daily, 20 Nov",
+   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-20"
   },
   {
    "section": "AI & agents",
-   "headline": "US approved nearly 900,000 AI chip sales to China",
-   "summary": "The approvals were granted over six months, Al Jazeera reports, even as Washington tightens other chip controls.",
-   "source": "Al Jazeera, 19 Nov",
-   "url": "https://www.aljazeera.com/where/united-states/"
+   "headline": "AWS lets AI agents buy software on their own",
+   "summary": "Amazon's marketplace now allows AI agents to purchase software autonomously, Fortune reports.",
+   "source": "Fortune via RIO Rundown, 20 Nov",
+   "url": "https://riorundown.substack.com/p/ai-news-nov-20-2026-agentic-ai-infrastructure"
   },
   {
    "section": "AI & agents",
-   "headline": "Anthropic's debut fails to lift wider AI shares",
-   "summary": "The shares slipped about 4.7% after hours, and OpenAI backer SoftBank slumped as Tokyo stocks fell sharply.",
-   "source": "Benzinga, 19 Nov",
-   "url": "https://www.benzinga.com/markets/equities/26/11/63463292/anthropic-ipo-dow-futures-fall-94-points-softbank-sinks-16-percent"
+   "headline": "AI-assisted cyberattack disrupts European Commission systems",
+   "summary": "The attack temporarily hit staff payroll and medical reimbursement systems; investigators are checking whether personal data was exposed.",
+   "source": "The Neuron, 20 Nov",
+   "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-20-2026/"
   }
  ]
 }
