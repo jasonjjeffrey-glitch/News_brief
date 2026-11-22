@@ -1,69 +1,69 @@
 {
- "date": "2026-11-21",
- "dateLabel": "Sat 21 Nov 2026",
+ "date": "2026-11-22",
+ "dateLabel": "Sun 22 Nov 2026",
  "items": [
   {
    "section": "World",
-   "headline": "Estonia shuts road border with Russia after drone-maker attack",
-   "summary": "Tallinn closed its road crossings after an attack on a drone manufacturer; Moscow complained of a 'new Iron Curtain'.",
-   "source": "Al Jazeera, 20 Nov",
-   "url": "https://www.aljazeera.com/author/al_jazeera_staff_150119130629458"
+   "headline": "Israeli strike on Gaza food-aid van kills three",
+   "summary": "The van was carrying food rations to displaced people west of Gaza City; separately, a man was shot dead by Israeli forces in Jabalia.",
+   "source": "Al Jazeera, 21 Nov",
+   "url": "https://www.aljazeera.com/"
   },
   {
    "section": "World",
-   "headline": "Kushner says Trump open to NATO-style guarantees for Ukraine",
-   "summary": "The US envoy spoke after a Coalition of the Willing summit in Berlin attended by Zelenskiy, Merz, Macron and UK PM Andy Burnham.",
-   "source": "Al Jazeera, 20 Nov",
-   "url": "https://www.aljazeera.com/news-analysis/"
+   "headline": "Iran says it shot down US drones over Hormuz",
+   "summary": "Efforts to end the war remain stalled, and the US placed sanctions on four Iranians it says acted as 'oil trustees'.",
+   "source": "Al Jazeera, 21 Nov",
+   "url": "https://www.aljazeera.com/tag/israel-iran-conflict/"
   },
   {
    "section": "World",
-   "headline": "COP31 climate talks go into overtime over fossil fuels",
-   "summary": "Deadlock over fossil fuel wording pushed the UN summit in Antalya, Turkey, past its scheduled close.",
-   "source": "Al Jazeera, 20 Nov",
-   "url": "https://www.aljazeera.com/news/"
+   "headline": "Russian strike kills two and wounds 60 in Zelenskyy's hometown",
+   "summary": "The attack hit Kryvyi Rih, the Ukrainian president's home city, as peace efforts continue.",
+   "source": "Al Jazeera, 21 Nov",
+   "url": "https://www.aljazeera.com/europe/"
   },
   {
    "section": "Business",
-   "headline": "FTSE 100 suffers worst week for months, down 5.1%",
-   "summary": "The index fell 1% on Friday to 10,346.34 as the global tech sell-off deepened, despite strong UK retail sales.",
-   "source": "Share Talk, 20 Nov",
-   "url": "https://www.share-talk.com/ftse-100-falls-5-1-in-worst-week-for-months-as-global-tech-sell-off-deepens/"
+   "headline": "UK and EU agree steps to improve trade ties",
+   "summary": "The new arrangements could cut costs for food exporters and shield British industry from EU carbon border charges.",
+   "source": "CPA and AJ Bell, 20 Nov",
+   "url": "https://cpa.co.uk/uk-business-news-today-20-november-2026-economy-markets-insolvencies/"
   },
   {
    "section": "Business",
-   "headline": "UK retail sales unexpectedly rise 0.7% in October",
-   "summary": "Sales were lifted by government advice to stock up on long-life items, plus stronger clothing sales; annual growth reached 2.3%.",
-   "source": "Reuters via AOL, 20 Nov",
-   "url": "https://www.aol.com/articles/uk-stocks-fall-banks-energy-123004000.html"
+   "headline": "Record 738,144 UK firms in significant financial distress",
+   "summary": "Higher borrowing, staff and energy costs are piling pressure on businesses, even as October retail sales bounced back.",
+   "source": "CPA, 20 Nov",
+   "url": "https://cpa.co.uk/uk-business-news-today-20-november-2026-economy-markets-insolvencies/"
   },
   {
    "section": "Business",
-   "headline": "Nvidia plunges 11% as Wall Street sell-off deepens",
-   "summary": "The Nasdaq 100 fell 4.5% as investors kept pulling back from AI-related shares.",
-   "source": "Share Talk, 20 Nov",
-   "url": "https://www.share-talk.com/ftse-100-falls-5-1-in-worst-week-for-months-as-global-tech-sell-off-deepens/"
+   "headline": "Nasdaq wipes out all its 2026 gains in AI sell-off",
+   "summary": "The slide also weighed on Anthropic's second day of trading.",
+   "source": "AOL news bulletin, 21 Nov",
+   "url": "https://www.aol.co.uk/articles/latest-news-bulletin-november-21st-110015000.html"
   },
   {
    "section": "AI & agents",
-   "headline": "Anthropic completes $93.5bn share sale as stock slides again",
-   "summary": "Underwriters took up their full option, while the shares fell for a second day. Riot Platforms confirmed a $28bn, 15-year Texas data centre lease with Anthropic.",
-   "source": "AI Frontier Daily, 20 Nov",
-   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-20"
+   "headline": "SEC reportedly examining possible accounting issues at Nvidia",
+   "summary": "Nvidia's losses doubled after Reuters reported the probe, capping a seventh straight weekly fall, its longest losing run since 2008.",
+   "source": "AI Frontier Daily, 21 Nov",
+   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-21"
   },
   {
    "section": "AI & agents",
-   "headline": "AWS lets AI agents buy software on their own",
-   "summary": "Amazon's marketplace now allows AI agents to purchase software autonomously, Fortune reports.",
-   "source": "Fortune via RIO Rundown, 20 Nov",
-   "url": "https://riorundown.substack.com/p/ai-news-nov-20-2026-agentic-ai-infrastructure"
+   "headline": "Mathematician says Claude helped produce a Riemann Hypothesis proof",
+   "summary": "An Anthropic mathematician made the claim, and a Stanford researcher said he independently reached the same result. Independent experts have yet to confirm it.",
+   "source": "AI Frontier Daily, 21 Nov",
+   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-21"
   },
   {
    "section": "AI & agents",
-   "headline": "AI-assisted cyberattack disrupts European Commission systems",
-   "summary": "The attack temporarily hit staff payroll and medical reimbursement systems; investigators are checking whether personal data was exposed.",
-   "source": "The Neuron, 20 Nov",
-   "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-20-2026/"
+   "headline": "Researcher finds AI providers leaking users' prompts",
+   "summary": "Dragos's HD Moore sent nearly two million bait prompts and found at least three AI providers breached, plus resellers logging prompts.",
+   "source": "Sam on AI, 21 Nov",
+   "url": "https://samonai.substack.com/p/ai-brief-november-21-2026"
   }
  ]
 }
