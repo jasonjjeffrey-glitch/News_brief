@@ -1,69 +1,69 @@
 {
- "date": "2026-11-22",
- "dateLabel": "Sun 22 Nov 2026",
+ "date": "2026-11-23",
+ "dateLabel": "Mon 23 Nov 2026",
  "items": [
   {
    "section": "World",
-   "headline": "Israeli strike on Gaza food-aid van kills three",
-   "summary": "The van was carrying food rations to displaced people west of Gaza City; separately, a man was shot dead by Israeli forces in Jabalia.",
-   "source": "Al Jazeera, 21 Nov",
-   "url": "https://www.aljazeera.com/"
-  },
-  {
-   "section": "World",
-   "headline": "Iran says it shot down US drones over Hormuz",
-   "summary": "Efforts to end the war remain stalled, and the US placed sanctions on four Iranians it says acted as 'oil trustees'.",
-   "source": "Al Jazeera, 21 Nov",
-   "url": "https://www.aljazeera.com/tag/israel-iran-conflict/"
-  },
-  {
-   "section": "World",
-   "headline": "Russian strike kills two and wounds 60 in Zelenskyy's hometown",
-   "summary": "The attack hit Kryvyi Rih, the Ukrainian president's home city, as peace efforts continue.",
-   "source": "Al Jazeera, 21 Nov",
+   "headline": "COP31 climate talks end without a deal",
+   "summary": "Delegates called the outcome disappointing after the summit in Antalya, Turkey, failed to agree on fossil fuels.",
+   "source": "Al Jazeera, 22 Nov",
    "url": "https://www.aljazeera.com/europe/"
   },
   {
-   "section": "Business",
-   "headline": "UK and EU agree steps to improve trade ties",
-   "summary": "The new arrangements could cut costs for food exporters and shield British industry from EU carbon border charges.",
-   "source": "CPA and AJ Bell, 20 Nov",
-   "url": "https://cpa.co.uk/uk-business-news-today-20-november-2026-economy-markets-insolvencies/"
+   "section": "World",
+   "headline": "Iran says it hit a US F-16 as Gulf attacks escalate",
+   "summary": "Iran's army said its air defences damaged the jet over the Gulf; Al Jazeera counts about 25 tanker incidents since 14 November.",
+   "source": "Al Jazeera, 22 Nov",
+   "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf"
+  },
+  {
+   "section": "World",
+   "headline": "Russian warship hit by suspected drone at Libyan port",
+   "summary": "The corvette Merkury capsized at a naval base in Benghazi. Nobody has claimed responsibility, and Russia has not commented.",
+   "source": "Al Jazeera, 22 Nov",
+   "url": "https://www.aljazeera.com/"
   },
   {
    "section": "Business",
-   "headline": "Record 738,144 UK firms in significant financial distress",
-   "summary": "Higher borrowing, staff and energy costs are piling pressure on businesses, even as October retail sales bounced back.",
-   "source": "CPA, 20 Nov",
-   "url": "https://cpa.co.uk/uk-business-news-today-20-november-2026-economy-markets-insolvencies/"
+   "headline": "FTSE 100 expected to open lower after worst week in months",
+   "summary": "Futures were down 0.3% after the index closed Friday at 10,346.34. Compass, Anglo American, Shell and utilities are in focus.",
+   "source": "Rallies.ai and Investing.com, 23 Nov",
+   "url": "https://rallies.ai/news/uk-stocks-factors-to-watch-on-november-23-b970d9d30d17a128"
   },
   {
    "section": "Business",
-   "headline": "Nasdaq wipes out all its 2026 gains in AI sell-off",
-   "summary": "The slide also weighed on Anthropic's second day of trading.",
-   "source": "AOL news bulletin, 21 Nov",
-   "url": "https://www.aol.co.uk/articles/latest-news-bulletin-november-21st-110015000.html"
+   "headline": "AI shares have worst week since March 2020",
+   "summary": "The Nasdaq fell about 5.3% on Friday and about 10% over the week, wiping out its 2026 gains; Nvidia fell about 14%.",
+   "source": "AI Daily Digest, 22 Nov",
+   "url": "https://github.com/diclogic/ai-daily-digest/issues/221"
+  },
+  {
+   "section": "Business",
+   "headline": "Drax due to update investors today",
+   "summary": "The power generator is among the companies reporting on Monday, alongside half-year and full-year results from smaller firms.",
+   "source": "AJ Bell, 20 Nov",
+   "url": "https://www.ajbell.co.uk/news/latest"
   },
   {
    "section": "AI & agents",
-   "headline": "SEC reportedly examining possible accounting issues at Nvidia",
-   "summary": "Nvidia's losses doubled after Reuters reported the probe, capping a seventh straight weekly fall, its longest losing run since 2008.",
-   "source": "AI Frontier Daily, 21 Nov",
-   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-21"
+   "headline": "Amazon nears $7.5bn deal for AI start-up Decart",
+   "summary": "The deal would be one of the biggest acquisitions in generative AI.",
+   "source": "RIO Rundown, 22 Nov",
+   "url": "https://riorundown.substack.com/p/ai-news-nov-22-2026-autonomous-systems"
   },
   {
    "section": "AI & agents",
-   "headline": "Mathematician says Claude helped produce a Riemann Hypothesis proof",
-   "summary": "An Anthropic mathematician made the claim, and a Stanford researcher said he independently reached the same result. Independent experts have yet to confirm it.",
-   "source": "AI Frontier Daily, 21 Nov",
-   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-21"
+   "headline": "OpenRouter drops three AI providers over prompt leaks",
+   "summary": "It removed three inference providers and 125 endpoints from its zero-data-retention option after research showed prompts being exposed.",
+   "source": "Unite AI via AI News Digest, 22 Nov",
+   "url": "https://aienews.org/digest/2026-11-22/"
   },
   {
    "section": "AI & agents",
-   "headline": "Researcher finds AI providers leaking users' prompts",
-   "summary": "Dragos's HD Moore sent nearly two million bait prompts and found at least three AI providers breached, plus resellers logging prompts.",
-   "source": "Sam on AI, 21 Nov",
-   "url": "https://samonai.substack.com/p/ai-brief-november-21-2026"
+   "headline": "Hackers used autonomous AI agents to exploit medical software",
+   "summary": "China-linked hackers reportedly used AI agents to exploit a previously unknown flaw in medical software.",
+   "source": "RIO Rundown, 22 Nov",
+   "url": "https://riorundown.substack.com/p/ai-news-nov-22-2026-autonomous-systems"
   }
  ]
 }
