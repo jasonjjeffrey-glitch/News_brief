@@ -1,69 +1,69 @@
 {
- "date": "2026-11-24",
- "dateLabel": "Tue 24 Nov 2026",
+ "date": "2026-11-25",
+ "dateLabel": "Wed 25 Nov 2026",
  "items": [
   {
    "section": "World",
-   "headline": "Russia threatens 'hostile' Estonia with open war",
-   "summary": "The threat follows Estonia's decision last week to shut its road border crossings with Russia after an attack on a drone maker.",
-   "source": "Al Jazeera, 23 Nov",
-   "url": "https://www.aljazeera.com/europe/"
+   "headline": "Houthi drone attack on Riyadh tower injures 11",
+   "summary": "Saudi authorities said two Saudis and nine foreign nationals were hurt in the attack on a building in Riyadh's financial district.",
+   "source": "Al Jazeera, 24 Nov",
+   "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh"
   },
   {
    "section": "World",
-   "headline": "At least 15 killed in Kyiv region as Russian attacks intensify",
-   "summary": "Separately, Zelenskyy said Ukraine was behind the drone attacks on Russian ships off Libya.",
-   "source": "Al Jazeera, 23 Nov",
-   "url": "https://www.aljazeera.com/tag/ukraine-russia-crisis/"
+   "headline": "Hormuz oil traffic down 40% as tanker attacks increase",
+   "summary": "Al Jazeera looks at whether Iran's attacks on tankers are achieving their aim as oil flows through the strait drop sharply.",
+   "source": "Al Jazeera, 24 Nov",
+   "url": "https://www.aljazeera.com/where/iran/"
   },
   {
    "section": "World",
-   "headline": "Thousands evacuated from Manchester arena after substance released",
-   "summary": "More than 12,000 people left the Co-op Live venue after an unknown substance was released during a concert.",
-   "source": "Al Jazeera, 23 Nov",
-   "url": "https://www.aljazeera.com/videos/newsfeed/"
+   "headline": "Iraq orders takeover of oilfields in Kurdish-controlled areas",
+   "summary": "Baghdad ordered control of oilfields in areas run by Kurdish authorities to be handed over.",
+   "source": "Al Jazeera, 24 Nov",
+   "url": "https://www.aljazeera.com/middle-east/"
   },
   {
    "section": "Business",
-   "headline": "FTSE 100 rebounds 1.3% as banks and miners rally",
-   "summary": "The index closed at 10,480.82 on Monday. Barclays rose 3.65%, HSBC 3.24% and Glencore 3.10%, though softer UK PMI data limited gains.",
-   "source": "Ad Hoc News, 23 Nov",
-   "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/ftse-100-rebounds-1-30-prozent-as-nvidia-revives-risk-appetite/70547878"
+   "headline": "FTSE 100 slips as metal prices hit miners",
+   "summary": "The index fell 0.1% to 10,467.07 on Tuesday, while the FTSE 250 dropped 0.8% to 23,858.88.",
+   "source": "Alliance News via Yahoo Finance, 24 Nov",
+   "url": "https://uk.finance.yahoo.com/news/miners-peg-back-ftse-100-171700714.html"
   },
   {
    "section": "Business",
-   "headline": "Nvidia reinstates Jensen Huang as chief executive",
-   "summary": "Huang returns with immediate effect, just over a week after resigning over revelations of extramarital affairs.",
-   "source": "Al Jazeera, 23 Nov",
-   "url": "https://aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo"
+   "headline": "Anthropic shares slump below their IPO price",
+   "summary": "The shares fell about 7% on Tuesday, raising questions about investor appetite for highly valued AI companies.",
+   "source": "Share Talk, 24 Nov",
+   "url": "https://www.share-talk.com/ftse-100-closes-lower-as-nvidia-falls-8-and-mining-stocks-tumble/"
   },
   {
    "section": "Business",
-   "headline": "AMD and Saudi Arabia's HUMAIN agree up to $10bn AI deal",
-   "summary": "The partnership will deploy 500 megawatts of AMD-based computing in Saudi Arabia and the US over five years.",
-   "source": "AI Frontier Daily, 23 Nov",
-   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-23"
+   "headline": "Compass considers US primary listing as Kingfisher raises outlook",
+   "summary": "The catering group is looking at moving its main listing to the US, while B&Q owner Kingfisher upgraded its forecast.",
+   "source": "Alliance News via MarketScreener, 24 Nov",
+   "url": "https://www.marketscreener.com/news/miners-peg-back-ftse-100-while-anthropic-slumps-ce7851dbda80fe22"
   },
   {
    "section": "AI & agents",
-   "headline": "OpenAI's chief scientist proposes industry-wide limits on AI progress",
-   "summary": "He warned AI could start speeding up its own training as soon as 2027, faster than safety research can keep up.",
-   "source": "AI Frontier Daily, 23 Nov",
-   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-23"
+   "headline": "Anthropic launches Claude Ship agents for code changes",
+   "summary": "The set of agents reviews, fixes and approves code; a new PR Steward agent repairs failing checks and merge conflicts.",
+   "source": "Sam on AI, 24 Nov",
+   "url": "https://samonai.substack.com/p/ai-brief-november-24-2026"
   },
   {
    "section": "AI & agents",
-   "headline": "Anthropic launches a proactive AI agent",
-   "summary": "The new agent expands Anthropic's range of AI tools.",
-   "source": "AI Agents Directory, 23 Nov",
-   "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-november-23-2026"
+   "headline": "Huang's return adds nearly $1tn to Nvidia's value",
+   "summary": "The company's value jumped by nearly a trillion dollars in a day after his reinstatement, even as Congress and investigators keep up pressure.",
+   "source": "AI Frontier Daily, 24 Nov",
+   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-24"
   },
   {
    "section": "AI & agents",
-   "headline": "Trump and Xi discussed safeguards on military AI",
-   "summary": "The two leaders talked about rules for AI in the military, according to The Neuron's daily round-up.",
-   "source": "The Neuron, 23 Nov",
-   "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-23-2026/"
+   "headline": "NHS launches AI breast cancer screening trial",
+   "summary": "The trial will test whether AI can help spot breast cancer earlier.",
+   "source": "The Neuron, 24 Nov",
+   "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-november-25-2026"
   }
  ]
 }
