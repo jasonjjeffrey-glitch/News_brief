@@ -1,69 +1,69 @@
 {
- "date": "2026-11-25",
- "dateLabel": "Wed 25 Nov 2026",
+ "date": "2026-11-26",
+ "dateLabel": "Thu 26 Nov 2026",
  "items": [
   {
    "section": "World",
-   "headline": "Houthi drone attack on Riyadh tower injures 11",
-   "summary": "Saudi authorities said two Saudis and nine foreign nationals were hurt in the attack on a building in Riyadh's financial district.",
-   "source": "Al Jazeera, 24 Nov",
-   "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh"
+   "headline": "Houthis say they attacked Saudi Arabia's Ras Tanura refinery",
+   "summary": "Satellite images showed a large smoke cloud over the oil facility; overnight, an explosion rocked Sanaa and missiles were intercepted over Riyadh.",
+   "source": "Al Jazeera, 25-26 Nov",
+   "url": "https://www.aljazeera.com/"
   },
   {
    "section": "World",
-   "headline": "Hormuz oil traffic down 40% as tanker attacks increase",
-   "summary": "Al Jazeera looks at whether Iran's attacks on tankers are achieving their aim as oil flows through the strait drop sharply.",
-   "source": "Al Jazeera, 24 Nov",
-   "url": "https://www.aljazeera.com/where/iran/"
+   "headline": "At least 30 killed in Egypt vehicle fire",
+   "summary": "Egypt's health ministry said the fire broke out in the Imbaba district of Giza.",
+   "source": "Al Jazeera, 25 Nov",
+   "url": "https://www.aljazeera.com/news/"
   },
   {
    "section": "World",
-   "headline": "Iraq orders takeover of oilfields in Kurdish-controlled areas",
-   "summary": "Baghdad ordered control of oilfields in areas run by Kurdish authorities to be handed over.",
-   "source": "Al Jazeera, 24 Nov",
-   "url": "https://www.aljazeera.com/middle-east/"
+   "headline": "Netanyahu says corruption trial 'must end' as court suggests dropping case",
+   "summary": "Israel's caretaker prime minister spoke in the Knesset after the court raised the idea of ending the case.",
+   "source": "Al Jazeera, 25 Nov",
+   "url": "https://www.aljazeera.com/news/"
   },
   {
    "section": "Business",
-   "headline": "FTSE 100 slips as metal prices hit miners",
-   "summary": "The index fell 0.1% to 10,467.07 on Tuesday, while the FTSE 250 dropped 0.8% to 23,858.88.",
-   "source": "Alliance News via Yahoo Finance, 24 Nov",
-   "url": "https://uk.finance.yahoo.com/news/miners-peg-back-ftse-100-171700714.html"
+   "headline": "FTSE 100 slips as US inflation and tariffs weigh",
+   "summary": "The index fell 0.4% to 10,426.94 on Wednesday, and the FTSE 250 lost 0.9% to 23,637.00.",
+   "source": "PA via LBC, 25 Nov",
+   "url": "https://www.lbc.co.uk/article/fe6e6972cd0e44b5bd80f74a189be886-5HjdnYg_2/"
   },
   {
    "section": "Business",
-   "headline": "Anthropic shares slump below their IPO price",
-   "summary": "The shares fell about 7% on Tuesday, raising questions about investor appetite for highly valued AI companies.",
-   "source": "Share Talk, 24 Nov",
-   "url": "https://www.share-talk.com/ftse-100-closes-lower-as-nvidia-falls-8-and-mining-stocks-tumble/"
+   "headline": "Defensive shares cushion London's fall",
+   "summary": "Imperial Brands, Unilever and GSK helped limit losses as technology-linked shares weakened.",
+   "source": "Ad Hoc News, 25 Nov",
+   "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/ftse-100-closes-0-38-prozent-lower-as-tech-turbulence-returns/70554551"
   },
   {
    "section": "Business",
-   "headline": "Compass considers US primary listing as Kingfisher raises outlook",
-   "summary": "The catering group is looking at moving its main listing to the US, while B&Q owner Kingfisher upgraded its forecast.",
-   "source": "Alliance News via MarketScreener, 24 Nov",
-   "url": "https://www.marketscreener.com/news/miners-peg-back-ftse-100-while-anthropic-slumps-ce7851dbda80fe22"
+   "headline": "Hot US inflation raises costs of AI build-out, analyst warns",
+   "summary": "XTB's Kathleen Brooks said the data points to longer high US interest rates, making AI infrastructure dearer to fund.",
+   "source": "PA via LBC, 25 Nov",
+   "url": "https://www.lbc.co.uk/article/fe6e6972cd0e44b5bd80f74a189be886-5HjdnYg_2/"
   },
   {
    "section": "AI & agents",
-   "headline": "Anthropic launches Claude Ship agents for code changes",
-   "summary": "The set of agents reviews, fixes and approves code; a new PR Steward agent repairs failing checks and merge conflicts.",
-   "source": "Sam on AI, 24 Nov",
-   "url": "https://samonai.substack.com/p/ai-brief-november-24-2026"
+   "headline": "Anthropic study finds AI adoption stalls inside companies",
+   "summary": "Across almost 300 deployments at 58 US firms, 55% raised output or quality but 19% have delivered no business value yet.",
+   "source": "The Decoder via DEV, 25 Nov",
+   "url": "https://dev.to/magnus_ferm/dev-news-digest-25-nov-2026-1800-4ddi"
   },
   {
    "section": "AI & agents",
-   "headline": "Huang's return adds nearly $1tn to Nvidia's value",
-   "summary": "The company's value jumped by nearly a trillion dollars in a day after his reinstatement, even as Congress and investigators keep up pressure.",
-   "source": "AI Frontier Daily, 24 Nov",
-   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-24"
+   "headline": "AI agents now run some of DeepMind's Gemini experiments",
+   "summary": "Research VP Koray Kavukcuoglu said agents control part of the lab's compute, though full self-improvement is still far off.",
+   "source": "The Decoder via DEV, 25 Nov",
+   "url": "https://dev.to/magnus_ferm/dev-news-digest-25-nov-2026-1800-4ddi"
   },
   {
    "section": "AI & agents",
-   "headline": "NHS launches AI breast cancer screening trial",
-   "summary": "The trial will test whether AI can help spot breast cancer earlier.",
-   "source": "The Neuron, 24 Nov",
-   "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-november-25-2026"
+   "headline": "Great Ormond Street trials AI agents for admin work",
+   "summary": "The London children's hospital has started a 15-month programme to deploy agentic AI safely for administrative tasks.",
+   "source": "RIO Rundown, 25 Nov",
+   "url": "https://riorundown.substack.com/p/ai-news-nov-25-2026-agentic-ai-security"
   }
  ]
 }
