@@ -1,69 +1,69 @@
 {
- "date": "2026-11-26",
- "dateLabel": "Thu 26 Nov 2026",
+ "date": "2026-11-27",
+ "dateLabel": "Fri 27 Nov 2026",
  "items": [
   {
    "section": "World",
-   "headline": "Houthis say they attacked Saudi Arabia's Ras Tanura refinery",
-   "summary": "Satellite images showed a large smoke cloud over the oil facility; overnight, an explosion rocked Sanaa and missiles were intercepted over Riyadh.",
-   "source": "Al Jazeera, 25-26 Nov",
-   "url": "https://www.aljazeera.com/"
+   "headline": "Zelenskyy warns of major Russian attack as Trump urges restraint",
+   "summary": "Trump urged Putin to 'pull back' after Russian strikes hit Kharkiv and energy sites in the Zaporizhzhia and Dnipropetrovsk regions.",
+   "source": "Al Jazeera, 26-27 Nov",
+   "url": "https://www.aljazeera.com/where/united-states/"
   },
   {
    "section": "World",
-   "headline": "At least 30 killed in Egypt vehicle fire",
-   "summary": "Egypt's health ministry said the fire broke out in the Imbaba district of Giza.",
-   "source": "Al Jazeera, 25 Nov",
-   "url": "https://www.aljazeera.com/news/"
+   "headline": "Kurds protest as Baghdad moves to take over oilfields",
+   "summary": "Protesters in Erbil rallied against the Iraqi prime minister's order; Baghdad denied reports that troops were moving towards the Kurdish region.",
+   "source": "Al Jazeera, 26 Nov",
+   "url": "https://www.aljazeera.com/middle-east/"
   },
   {
    "section": "World",
-   "headline": "Netanyahu says corruption trial 'must end' as court suggests dropping case",
-   "summary": "Israel's caretaker prime minister spoke in the Knesset after the court raised the idea of ending the case.",
-   "source": "Al Jazeera, 25 Nov",
-   "url": "https://www.aljazeera.com/news/"
+   "headline": "DR Congo Ebola cases pass 12,000",
+   "summary": "Fighting in the east of the country is disrupting the response to the outbreak.",
+   "source": "Al Jazeera, 26 Nov",
+   "url": "https://www.aljazeera.com/africa/"
   },
   {
    "section": "Business",
-   "headline": "FTSE 100 slips as US inflation and tariffs weigh",
-   "summary": "The index fell 0.4% to 10,426.94 on Wednesday, and the FTSE 250 lost 0.9% to 23,637.00.",
-   "source": "PA via LBC, 25 Nov",
-   "url": "https://www.lbc.co.uk/article/fe6e6972cd0e44b5bd80f74a189be886-5HjdnYg_2/"
+   "headline": "FTSE 100 jumps 1.75% as banks and miners rally",
+   "summary": "The index closed at 10,609.30 on Thursday, recovering from recent losses while US markets were shut for Thanksgiving.",
+   "source": "Ad Hoc News, 26 Nov",
+   "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/ftse-100-closes-1-75-prozent-higher-as-banks-and-miners-rally/70559914"
   },
   {
    "section": "Business",
-   "headline": "Defensive shares cushion London's fall",
-   "summary": "Imperial Brands, Unilever and GSK helped limit losses as technology-linked shares weakened.",
-   "source": "Ad Hoc News, 25 Nov",
-   "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/ftse-100-closes-0-38-prozent-lower-as-tech-turbulence-returns/70554551"
+   "headline": "Imperial Brands rises on takeover interest; Babcock wins defence deal",
+   "summary": "The two were among the strongest FTSE 100 performers on Thursday.",
+   "source": "Ad Hoc News, 26 Nov",
+   "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/ftse-100-closes-1-75-prozent-higher-as-banks-and-miners-rally/70559914"
   },
   {
    "section": "Business",
-   "headline": "Hot US inflation raises costs of AI build-out, analyst warns",
-   "summary": "XTB's Kathleen Brooks said the data points to longer high US interest rates, making AI infrastructure dearer to fund.",
-   "source": "PA via LBC, 25 Nov",
-   "url": "https://www.lbc.co.uk/article/fe6e6972cd0e44b5bd80f74a189be886-5HjdnYg_2/"
+   "headline": "European shares rally, with the DAX up 2%",
+   "summary": "Germany's DAX closed up 2.08% and the Euro Stoxx 50 up 2.04% on Thursday.",
+   "source": "SquawkNews, 26 Nov",
+   "url": "https://squawknews.com/brief/livecast/2026-11-26"
   },
   {
    "section": "AI & agents",
-   "headline": "Anthropic study finds AI adoption stalls inside companies",
-   "summary": "Across almost 300 deployments at 58 US firms, 55% raised output or quality but 19% have delivered no business value yet.",
-   "source": "The Decoder via DEV, 25 Nov",
-   "url": "https://dev.to/magnus_ferm/dev-news-digest-25-nov-2026-1800-4ddi"
+   "headline": "Anthropic used Claude to rebuild its API, cutting CPU use 70%",
+   "summary": "The API that routes every Claude conversation was rewritten from Python to Rust with no downtime during the switch.",
+   "source": "AI Frontier Daily, 26 Nov",
+   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-26"
   },
   {
    "section": "AI & agents",
-   "headline": "AI agents now run some of DeepMind's Gemini experiments",
-   "summary": "Research VP Koray Kavukcuoglu said agents control part of the lab's compute, though full self-improvement is still far off.",
-   "source": "The Decoder via DEV, 25 Nov",
-   "url": "https://dev.to/magnus_ferm/dev-news-digest-25-nov-2026-1800-4ddi"
+   "headline": "US regulator clears SpaceX for up to 1 million AI satellites",
+   "summary": "The FCC authorised the satellites, which carry AI chips, under SpaceX's Starmind plan for data centres in orbit.",
+   "source": "AItoolly, 26 Nov",
+   "url": "https://aitoolly.com/ai-news/2026-11-26"
   },
   {
    "section": "AI & agents",
-   "headline": "Great Ormond Street trials AI agents for admin work",
-   "summary": "The London children's hospital has started a 15-month programme to deploy agentic AI safely for administrative tasks.",
-   "source": "RIO Rundown, 25 Nov",
-   "url": "https://riorundown.substack.com/p/ai-news-nov-25-2026-agentic-ai-security"
+   "headline": "OpenAI tests Private Inference for business customers",
+   "summary": "The feature lets companies run prompts through OpenAI's models without OpenAI itself being able to read them.",
+   "source": "AI Frontier Daily, 26 Nov",
+   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-26"
   }
  ]
 }
