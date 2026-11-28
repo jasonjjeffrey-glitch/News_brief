@@ -1,69 +1,69 @@
 {
- "date": "2026-11-27",
- "dateLabel": "Fri 27 Nov 2026",
+ "date": "2026-11-28",
+ "dateLabel": "Sat 28 Nov 2026",
  "items": [
   {
    "section": "World",
-   "headline": "Zelenskyy warns of major Russian attack as Trump urges restraint",
-   "summary": "Trump urged Putin to 'pull back' after Russian strikes hit Kharkiv and energy sites in the Zaporizhzhia and Dnipropetrovsk regions.",
-   "source": "Al Jazeera, 26-27 Nov",
+   "headline": "US military disables ship trying to breach Iran blockade",
+   "summary": "The merchant vessel was stopped near the Strait of Hormuz, the US military said.",
+   "source": "Al Jazeera, 27 Nov",
    "url": "https://www.aljazeera.com/where/united-states/"
   },
   {
    "section": "World",
-   "headline": "Kurds protest as Baghdad moves to take over oilfields",
-   "summary": "Protesters in Erbil rallied against the Iraqi prime minister's order; Baghdad denied reports that troops were moving towards the Kurdish region.",
-   "source": "Al Jazeera, 26 Nov",
-   "url": "https://www.aljazeera.com/middle-east/"
+   "headline": "Kyiv offers Black Sea ceasefire to protect grain exports",
+   "summary": "Ukraine proposed a truce at sea to keep its grain shipments moving.",
+   "source": "Al Jazeera, 27 Nov",
+   "url": "https://www.aljazeera.com/where/united-states/"
   },
   {
    "section": "World",
-   "headline": "DR Congo Ebola cases pass 12,000",
-   "summary": "Fighting in the east of the country is disrupting the response to the outbreak.",
-   "source": "Al Jazeera, 26 Nov",
-   "url": "https://www.aljazeera.com/africa/"
+   "headline": "Italy says Iranian-made drone killed two Italians in Kuwait",
+   "summary": "Foreign Minister Antonio Tajani said the drone used in the deadly strike in Kuwait was made in Iran.",
+   "source": "Al Jazeera, 28 Nov",
+   "url": "https://www.aljazeera.com/tag/donald-trump/"
   },
   {
    "section": "Business",
-   "headline": "FTSE 100 jumps 1.75% as banks and miners rally",
-   "summary": "The index closed at 10,609.30 on Thursday, recovering from recent losses while US markets were shut for Thanksgiving.",
-   "source": "Ad Hoc News, 26 Nov",
-   "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/ftse-100-closes-1-75-prozent-higher-as-banks-and-miners-rally/70559914"
+   "headline": "FTSE 100 ends week up 3.4% as miners and banks rally",
+   "summary": "The index rose 0.84% on Friday to 10,698.81, helped by stronger gold and copper prices and a rebound in US shares.",
+   "source": "Ad Hoc News, 27 Nov",
+   "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/ftse-100-closes-0-84-prozent-higher-as-miners-and-banks-rally/70563092"
   },
   {
    "section": "Business",
-   "headline": "Imperial Brands rises on takeover interest; Babcock wins defence deal",
-   "summary": "The two were among the strongest FTSE 100 performers on Thursday.",
-   "source": "Ad Hoc News, 26 Nov",
-   "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/ftse-100-closes-1-75-prozent-higher-as-banks-and-miners-rally/70559914"
+   "headline": "Norse Atlantic files for bankruptcy and halts flights",
+   "summary": "The low-cost transatlantic airline has stopped flying and selling tickets.",
+   "source": "Al Jazeera, 27 Nov",
+   "url": "https://www.aljazeera.com/where/united-states/"
   },
   {
    "section": "Business",
-   "headline": "European shares rally, with the DAX up 2%",
-   "summary": "Germany's DAX closed up 2.08% and the Euro Stoxx 50 up 2.04% on Thursday.",
-   "source": "SquawkNews, 26 Nov",
-   "url": "https://squawknews.com/brief/livecast/2026-11-26"
+   "headline": "Bank of England December rate rise still on the table",
+   "summary": "London outpaced Frankfurt and Paris on Friday, with rate-setters keeping open the option of a December hike.",
+   "source": "24/7 Wall St., 27 Nov",
+   "url": "https://247wallst.com/cards/london-finished-above-14-000-and-outpaced-both-frankfurt-and-ftse-market-bell-01m8expctec9wsdegdraqvkq47"
   },
   {
    "section": "AI & agents",
-   "headline": "Anthropic used Claude to rebuild its API, cutting CPU use 70%",
-   "summary": "The API that routes every Claude conversation was rewritten from Python to Rust with no downtime during the switch.",
-   "source": "AI Frontier Daily, 26 Nov",
-   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-26"
+   "headline": "OpenAI countersues Apple over trade secrets",
+   "summary": "The legal fight between the two companies escalates as the AI race heats up.",
+   "source": "Al Jazeera, 27 Nov",
+   "url": "https://www.aljazeera.com/news/"
   },
   {
    "section": "AI & agents",
-   "headline": "US regulator clears SpaceX for up to 1 million AI satellites",
-   "summary": "The FCC authorised the satellites, which carry AI chips, under SpaceX's Starmind plan for data centres in orbit.",
-   "source": "AItoolly, 26 Nov",
-   "url": "https://aitoolly.com/ai-news/2026-11-26"
+   "headline": "Restricted Nvidia chips traced to Shanghai data centre, Bloomberg says",
+   "summary": "The Blackwell chips, barred from sale to China, were linked to a centre tied to the woman in Jensen Huang's affair scandal.",
+   "source": "AI Frontier Daily, 27 Nov",
+   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-27"
   },
   {
    "section": "AI & agents",
-   "headline": "OpenAI tests Private Inference for business customers",
-   "summary": "The feature lets companies run prompts through OpenAI's models without OpenAI itself being able to read them.",
-   "source": "AI Frontier Daily, 26 Nov",
-   "url": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-26"
+   "headline": "US regulator clears AI tool that predicts breast cancer risk",
+   "summary": "The FDA approved DeepHealth's tool, which assesses risk using existing 3D mammogram scans.",
+   "source": "RIO Rundown, 27 Nov",
+   "url": "https://riorundown.substack.com/p/ai-news-nov-27-2026-ai-infrastructure"
   }
  ]
 }
